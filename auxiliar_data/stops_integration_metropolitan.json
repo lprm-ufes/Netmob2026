@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1016963343548,
+                    -22.8601680349063
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0868790300728,
+                    -22.8622069606492
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0691537367637,
+                    -22.8683493844255
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.043586186604,
+                    -22.872312147479
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0267078216208,
+                    -22.8785765117537
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.9859226631639,
+                    -22.9011041914487
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0990271950175,
+                    -22.9326934887291
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1238109074298,
+                    -22.8934458523789
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "tx_nome": "Terminais de Integração Metropolitana"
+            }
+        }
+    ]
+}

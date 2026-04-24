@@ -1,0 +1,5402 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0284233466875,
+                    -22.9574420253347
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "tx_produto": null,
+                "tx_COD": "A001",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES, 10804",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0299789023478,
+                    -22.9595531368437
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "tx_produto": null,
+                "tx_COD": "A002",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES, 11096",
+                "tx_referencia": "CONDOMINIO VARANDAS DE ITAIPU",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.033506680757,
+                    -22.9645809143375
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "tx_produto": null,
+                "tx_COD": "A003",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES, 11784",
+                "tx_referencia": "EM FRENTE AO ITACOATIARA FLAT SERVICE",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0372844583981,
+                    -22.9663309140988
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "tx_produto": null,
+                "tx_COD": "A004",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES",
+                "tx_referencia": "PRÓXIMO AO DPO DE ITAIPU",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0310900136508,
+                    -22.9634975816222
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "tx_produto": null,
+                "tx_COD": "A005",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES",
+                "tx_referencia": "EM FRENTE AO MERCADO REAL - ITACOATIARA",
+                "tx_bairro": "ITACOATIARA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.030923347603,
+                    -22.9633864700553
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "tx_produto": null,
+                "tx_COD": "A006",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES",
+                "tx_referencia": "PONTO DAS VANS - MERCADO REAL",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0298955689086,
+                    -22.9603031366237
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "tx_produto": null,
+                "tx_COD": "A007",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES, 4113",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0291177910586,
+                    -22.9589142478144
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "tx_produto": null,
+                "tx_COD": "A008",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES, 10996",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0280622359867,
+                    -22.9554975816216
+                ]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "tx_produto": null,
+                "tx_COD": "A009",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES, 6205",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0692566798205,
+                    -22.9376086903231
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "tx_produto": null,
+                "tx_COD": "A010",
+                "tx_endereco": "AV RAUL DE OLIVEIRA DE RODRIGUES",
+                "tx_referencia": "PRÓXIMO AO POSTO DE SAÚDE DO CAFUBÁ",
+                "tx_bairro": "CAFUBÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0938400138492,
+                    -22.9513031337775
+                ]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "tx_produto": null,
+                "tx_COD": "A011",
+                "tx_endereco": "AV. ACÚRCIO TORRES, 178 X RUA NEWTON BRASIL",
+                "tx_referencia": " ",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0910622356995,
+                    -22.9516364676767
+                ]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "tx_produto": null,
+                "tx_COD": "A012",
+                "tx_endereco": "AV. ACÚRCIO TORRES, 182 X RUA JORN. JOSÉ NAEGLE",
+                "tx_referencia": " ",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0728122358238,
+                    -22.9541364677676
+                ]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "tx_produto": null,
+                "tx_COD": "A013",
+                "tx_endereco": "AV. ACÚRCIO TORRES, 453 X RUA ABDO. ABI- RAMA",
+                "tx_referencia": " ",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.066506679942,
+                    -22.9540253575375
+                ]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "tx_produto": null,
+                "tx_COD": "A014",
+                "tx_endereco": "AV. ALM. TAMANDARÉ X RUA DA GRAÇA",
+                "tx_referencia": " ",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0578677906764,
+                    -22.9440253577054
+                ]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "tx_produto": null,
+                "tx_COD": "A015",
+                "tx_endereco": "AV. ALM. TAMANDARÉ X RUA ALTEVO DA SILVA",
+                "tx_referencia": " ",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0644511237334,
+                    -22.9293309121528
+                ]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "tx_produto": null,
+                "tx_COD": "A016",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES",
+                "tx_referencia": "EM FRENTE AO HOSP. MARIO MONTEIRO",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0478122340207,
+                    -22.9138586905018
+                ]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "tx_produto": null,
+                "tx_COD": "A017",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES",
+                "tx_referencia": "CEMITÉRIO - PARQUE DA COLINA",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.062340011546,
+                    -22.9096364681622
+                ]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "tx_produto": null,
+                "tx_COD": "A018",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES",
+                "tx_referencia": "TÓRTORA",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0635066784168,
+                    -22.9077475784033
+                ]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "tx_produto": null,
+                "tx_COD": "A019",
+                "tx_endereco": "AV. RUI BARBOSA",
+                "tx_referencia": "AO LADO DO FÓRUM",
+                "tx_bairro": "LARGO DA BATALHA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.061256677523,
+                    -22.9074420234113
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "tx_produto": null,
+                "tx_COD": "A020",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "AO LADO DO COLÉGIO LÁPIS DE COR",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.05678445527,
+                    -22.9067753570804
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "tx_produto": null,
+                "tx_COD": "A021",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "LADO OPOSTO AO POSTO IPIRANGA",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0537288997318,
+                    -22.9059975794096
+                ]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "tx_produto": null,
+                "tx_COD": "A022",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "CIA DESTACADA DA PM",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0511177887804,
+                    -22.9046920232736
+                ]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "tx_produto": null,
+                "tx_COD": "A023",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "SUBSTAÇÃO DA OI",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.027006676059,
+                    -22.8778031349711
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "tx_produto": null,
+                "tx_COD": "A024",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "EM FRENTE AO POSTO BR",
+                "tx_bairro": "MARIA PAULA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0275344543806,
+                    -22.8800809131226
+                ]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "tx_produto": null,
+                "tx_COD": "A025",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO, 2891",
+                "tx_referencia": " ",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0307844544514,
+                    -22.8827198015931
+                ]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "tx_produto": null,
+                "tx_COD": "A026",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "PRÓXIMO AO DUBAI MÓVEIS",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0322288989507,
+                    -22.8852198016196
+                ]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "tx_produto": null,
+                "tx_COD": "A027",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO, 2333",
+                "tx_referencia": "EM FRENTE A IGREJA E WIZARD",
+                "tx_bairro": "SÃO SEBASTIÃO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0375900106082,
+                    -22.8941364684297
+                ]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "tx_produto": null,
+                "tx_COD": "A028",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO, 2380",
+                "tx_referencia": " ",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0480344555223,
+                    -22.9032198017943
+                ]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "tx_produto": null,
+                "tx_COD": "A029",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "EM FRENTE A PESTALLOZI",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0537288995863,
+                    -22.9057475794816
+                ]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "tx_produto": null,
+                "tx_COD": "A030",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "LADO OPOSTO A CIA DESTACADA DA PM - TOP CENTER",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0575622336125,
+                    -22.90666424558
+                ]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "tx_produto": null,
+                "tx_COD": "A031",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "EM FRENTE AO CEPAR",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0593400111422,
+                    -22.9069142457604
+                ]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "tx_produto": null,
+                "tx_COD": "A032",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO, 391",
+                "tx_referencia": " ",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0612844555897,
+                    -22.9072475788911
+                ]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "tx_produto": null,
+                "tx_COD": "A033",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO, 1325",
+                "tx_referencia": "LADO OPOSTO AO COLÉGIO LÁPIS DE COR",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0633400114292,
+                    -22.9031642455724
+                ]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "tx_produto": null,
+                "tx_COD": "A034",
+                "tx_endereco": "AV. WASHINGTON LUIZ, 383",
+                "tx_referencia": "LADO OPOSTO",
+                "tx_bairro": "SAPE",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0592288993236,
+                    -22.8972753566768
+                ]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "tx_produto": null,
+                "tx_COD": "A035",
+                "tx_endereco": "AV. WASHINGTON LUIZ",
+                "tx_referencia": "AO LADO DA ESCOLA VINICIUS DE MORAES",
+                "tx_bairro": "SAPE",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.055645566554,
+                    -22.8943586895721
+                ]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "tx_produto": null,
+                "tx_COD": "A036",
+                "tx_endereco": "AV. WASHINGTON LUIZ, 520",
+                "tx_referencia": " ",
+                "tx_bairro": "SAPE",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0477844546028,
+                    -22.8795809121933
+                ]
+            },
+            "properties": {
+                "OBJECTID": 37,
+                "tx_produto": null,
+                "tx_COD": "A037",
+                "tx_endereco": "AV. DESEMBARGADOR NESTOR RODRIGUES PERLINGEIRO, 890",
+                "tx_referencia": " ",
+                "tx_bairro": "SANTA BÁRBARA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0481177873174,
+                    -22.876942023575
+                ]
+            },
+            "properties": {
+                "OBJECTID": 38,
+                "tx_produto": null,
+                "tx_COD": "A038",
+                "tx_endereco": "AV. DESEMBARGADOR NESTOR RODRIGUES PERLINGEIRO",
+                "tx_referencia": "AO LADO DO COLÉGIO DAVID CAPISTRANO",
+                "tx_bairro": "SANTA BÁRBARA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0487844543156,
+                    -22.8750809115964
+                ]
+            },
+            "properties": {
+                "OBJECTID": 39,
+                "tx_produto": null,
+                "tx_COD": "A039",
+                "tx_endereco": "AV. DESEMBARGADOR NESTOR RODRIGUES PERLINGEIRO, 217",
+                "tx_referencia": " ",
+                "tx_bairro": "SANTA BÁRBARA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0506177873576,
+                    -22.8739975789119
+                ]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "tx_produto": null,
+                "tx_COD": "A040",
+                "tx_endereco": "AV. DESEMBARGADOR NESTOR RODRIGUES PERLINGEIRO, 549",
+                "tx_referencia": "PRÓXIMO A BR RJ-104",
+                "tx_bairro": "SANTA BÁRBARA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.055812232933,
+                    -22.8943586899121
+                ]
+            },
+            "properties": {
+                "OBJECTID": 41,
+                "tx_produto": null,
+                "tx_COD": "A041",
+                "tx_endereco": "AV. WASHINGTON LUIZ, 520",
+                "tx_referencia": "LADO OPOSTO AO CONDOMINIO",
+                "tx_bairro": "SAPE",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0571733438877,
+                    -22.8956086903018
+                ]
+            },
+            "properties": {
+                "OBJECTID": 42,
+                "tx_produto": null,
+                "tx_COD": "A042",
+                "tx_endereco": "AV. WASHINGTON LUIZ, 490",
+                "tx_referencia": "EM FRENTE AO CONDOMONIO",
+                "tx_bairro": "SAPE",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0633955667955,
+                    -22.9033586899411
+                ]
+            },
+            "properties": {
+                "OBJECTID": 43,
+                "tx_produto": null,
+                "tx_COD": "A043",
+                "tx_endereco": "AV. WASHINGTON LUIZ, 383",
+                "tx_referencia": " ",
+                "tx_bairro": "SAPE",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0631733465683,
+                    -22.9414975795929
+                ]
+            },
+            "properties": {
+                "OBJECTID": 44,
+                "tx_produto": null,
+                "tx_COD": "A044",
+                "tx_endereco": "AV. RAUL RODRIGUES DE OLIVEIRA",
+                "tx_referencia": "PROXIMO AO NÚMERO 1240",
+                "tx_bairro": "CAFUBÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.066895567186,
+                    -22.9064142456929
+                ]
+            },
+            "properties": {
+                "OBJECTID": 45,
+                "tx_produto": null,
+                "tx_COD": "A044",
+                "tx_endereco": "RUA REVERENDO ARMANDO FERREIRA",
+                "tx_referencia": "EM FRENTE AO REDE ECONOMIA",
+                "tx_bairro": "LARGO DA BATALHA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.065978902104,
+                    -22.9395809124116
+                ]
+            },
+            "properties": {
+                "OBJECTID": 46,
+                "tx_produto": null,
+                "tx_COD": "A045",
+                "tx_endereco": "AV. RAUL RODRIGUES DE OLIVEIRA",
+                "tx_referencia": "EM FRENTE AO NUMERO 518",
+                "tx_bairro": "CAFUBÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0671455667337,
+                    -22.9071086894283
+                ]
+            },
+            "properties": {
+                "OBJECTID": 47,
+                "tx_produto": null,
+                "tx_COD": "A045",
+                "tx_endereco": "RUA REVERENDO ARMANDO FERREIRA - ABRIGO 1",
+                "tx_referencia": "EM FRENTE A BETH FOTOGRAFIA",
+                "tx_bairro": "LARGO DA BATALHA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0671455666496,
+                    -22.9071364673475
+                ]
+            },
+            "properties": {
+                "OBJECTID": 48,
+                "tx_produto": null,
+                "tx_COD": "A046",
+                "tx_endereco": "RUA REVERENDO ARMANDO FERREIRA - ABRIGO 2",
+                "tx_referencia": "ROGER - RAÇÕES",
+                "tx_bairro": "LARGO DA BATALHA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0708122339238,
+                    -22.9147198005879
+                ]
+            },
+            "properties": {
+                "OBJECTID": 49,
+                "tx_produto": null,
+                "tx_COD": "A047",
+                "tx_endereco": "ESTRADA DEMÉTRIO DE FREITAS X RUA PROF. ROBERTO LIRA",
+                "tx_referencia": "ABRIGO 1",
+                "tx_bairro": "MACEIO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0708400119839,
+                    -22.9147475782845
+                ]
+            },
+            "properties": {
+                "OBJECTID": 50,
+                "tx_produto": null,
+                "tx_COD": "A048",
+                "tx_endereco": "ESTRADA DEMÉTRIO DE FREITAS X RUA PROF. ROBERTO LIRA",
+                "tx_referencia": "ABRIGO 2",
+                "tx_bairro": "MACEIO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0693122336474,
+                    -22.9136642455493
+                ]
+            },
+            "properties": {
+                "OBJECTID": 51,
+                "tx_produto": null,
+                "tx_COD": "A049",
+                "tx_endereco": "ESTRADA DEMÉTRIO DE FREITAS, 85",
+                "tx_referencia": " ",
+                "tx_bairro": "MACEIO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0660622340119,
+                    -22.9081642457549
+                ]
+            },
+            "properties": {
+                "OBJECTID": 52,
+                "tx_produto": null,
+                "tx_COD": "A050",
+                "tx_endereco": "AV. RUI BARBOSA",
+                "tx_referencia": "IGREJA BATISTA DO LARGO DA BATALHA",
+                "tx_bairro": "LARGO DA BATALHA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0686455673003,
+                    -22.9084142449834
+                ]
+            },
+            "properties": {
+                "OBJECTID": 53,
+                "tx_produto": null,
+                "tx_COD": "A051",
+                "tx_endereco": "AV. RUI BARBOSA",
+                "tx_referencia": "EM FRENTE AO BATALHA MIL",
+                "tx_bairro": "LARGO DA BATALHA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0948122342971,
+                    -22.9237753553818
+                ]
+            },
+            "properties": {
+                "OBJECTID": 54,
+                "tx_produto": null,
+                "tx_COD": "A065",
+                "tx_endereco": "AV. PREFEITO SILVIO PICANÇO",
+                "tx_referencia": "QUIOSQUE R2",
+                "tx_bairro": "CHARITAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 55,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0946177903808,
+                    -22.9247753559234
+                ]
+            },
+            "properties": {
+                "OBJECTID": 55,
+                "tx_produto": null,
+                "tx_COD": "A069",
+                "tx_endereco": "AV. PREFEITO SILVIO PICANÇO, 355",
+                "tx_referencia": " ",
+                "tx_bairro": "CHARITAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 56,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0985622348364,
+                    -22.9325809107255
+                ]
+            },
+            "properties": {
+                "OBJECTID": 56,
+                "tx_produto": null,
+                "tx_COD": "A214",
+                "tx_endereco": "AV. PREFEITO SYLVIO PICANÇO, 40",
+                "tx_referencia": " ",
+                "tx_bairro": "CHARITAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 57,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0960344563693,
+                    -22.9282753554577
+                ]
+            },
+            "properties": {
+                "OBJECTID": 57,
+                "tx_produto": null,
+                "tx_COD": "A215",
+                "tx_endereco": "AV. PREFEITO SYLVIO PICANÇO, 725",
+                "tx_referencia": " ",
+                "tx_bairro": "CHARITAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 58,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0968122345737,
+                    -22.9292197995669
+                ]
+            },
+            "properties": {
+                "OBJECTID": 58,
+                "tx_produto": null,
+                "tx_COD": "A216",
+                "tx_endereco": "AV. PREFEITO SYLVIO PICANÇO, 839",
+                "tx_referencia": "SOLAR DO AMANHECER",
+                "tx_bairro": "CHARITAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 59,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0816177894273,
+                    -22.9126920229263
+                ]
+            },
+            "properties": {
+                "OBJECTID": 59,
+                "tx_produto": null,
+                "tx_COD": "A052",
+                "tx_endereco": "RUA FERNANDES COUTO, 26",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 60,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0884511225007,
+                    -22.9140809107918
+                ]
+            },
+            "properties": {
+                "OBJECTID": 60,
+                "tx_produto": null,
+                "tx_COD": "A053",
+                "tx_endereco": "AV. PRESIDENTE ROOSEVELT X RUA TAPAJÓS",
+                "tx_referencia": "SENTIDO CENTRO",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 61,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0949511226966,
+                    -22.9145531329278
+                ]
+            },
+            "properties": {
+                "OBJECTID": 61,
+                "tx_produto": null,
+                "tx_COD": "A054",
+                "tx_endereco": "AV. PRESIDENTE ROOSELVELT, 47",
+                "tx_referencia": "CLINICA SANTINA - SENTIDO CENTRO",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 62,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.094423345501,
+                    -22.9147753551412
+                ]
+            },
+            "properties": {
+                "OBJECTID": 62,
+                "tx_produto": null,
+                "tx_COD": "A055",
+                "tx_endereco": "AV. PRESIDENTE ROOSELVELT",
+                "tx_referencia": "AO LADO DO CLIM - ABRIGO 1 - SENT. PIRATININGA",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 63,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0943955677123,
+                    -22.9147753550031
+                ]
+            },
+            "properties": {
+                "OBJECTID": 63,
+                "tx_produto": null,
+                "tx_COD": "A056",
+                "tx_endereco": "AV. PRESIDENTE ROOSELVELT",
+                "tx_referencia": "AO LADO DO CLIM - ABRIGO 2 - SENT. PIRATININGA",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 64,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0872844557038,
+                    -22.9143031336876
+                ]
+            },
+            "properties": {
+                "OBJECTID": 64,
+                "tx_produto": null,
+                "tx_COD": "A057",
+                "tx_endereco": "AV. PRESIDENTE ROOSELVELT",
+                "tx_referencia": "CASA DE FESTAS - HAPPY DAY",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 65,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0846177889761,
+                    -22.9141364672295
+                ]
+            },
+            "properties": {
+                "OBJECTID": 65,
+                "tx_produto": null,
+                "tx_COD": "A058",
+                "tx_endereco": "AV. PRESIDENTE ROOSELVELT, 436",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 66,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0788677893222,
+                    -22.9128586896683
+                ]
+            },
+            "properties": {
+                "OBJECTID": 66,
+                "tx_produto": null,
+                "tx_COD": "A059",
+                "tx_endereco": "AV. RUI BARBOSA, 682",
+                "tx_referencia": "EM FRENTE A GARAGEM DA VIAÇÃO MIRAMAR",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 67,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1151177907599,
+                    -22.9323031329691
+                ]
+            },
+            "properties": {
+                "OBJECTID": 67,
+                "tx_produto": null,
+                "tx_COD": "A066",
+                "tx_endereco": "AV. CARLOS HERMELINDO MARINS, 926",
+                "tx_referencia": " ",
+                "tx_bairro": "JURUJUBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 68,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1129511237007,
+                    -22.934803132865
+                ]
+            },
+            "properties": {
+                "OBJECTID": 68,
+                "tx_produto": null,
+                "tx_COD": "A067",
+                "tx_endereco": "AV. CARLOS HERMELINDO MARINS",
+                "tx_referencia": "CAMPO DE FUTEBOL",
+                "tx_bairro": "JURUJUBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 69,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0834511228168,
+                    -22.9152753554374
+                ]
+            },
+            "properties": {
+                "OBJECTID": 69,
+                "tx_produto": null,
+                "tx_COD": "A060",
+                "tx_endereco": "AV. RUI BARBOSA, 498",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 70,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0859789005634,
+                    -22.9175809117631
+                ]
+            },
+            "properties": {
+                "OBJECTID": 70,
+                "tx_produto": null,
+                "tx_COD": "A061",
+                "tx_endereco": "AV. RUI BARBOSA, 355",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 71,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0870900114342,
+                    -22.9186920224416
+                ]
+            },
+            "properties": {
+                "OBJECTID": 71,
+                "tx_produto": null,
+                "tx_COD": "A062",
+                "tx_endereco": "AV. RUI BARBOSA, 306",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 72,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0914233449763,
+                    -22.9202475780895
+                ]
+            },
+            "properties": {
+                "OBJECTID": 72,
+                "tx_produto": null,
+                "tx_COD": "A063",
+                "tx_endereco": "AV. RUI BARBOSA, 87",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 73,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0913122341532,
+                    -22.9203864668391
+                ]
+            },
+            "properties": {
+                "OBJECTID": 73,
+                "tx_produto": null,
+                "tx_COD": "A064",
+                "tx_endereco": "AV. RUI BARBOSA, 92",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 74,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1246733437723,
+                    -22.8868586870643
+                ]
+            },
+            "properties": {
+                "OBJECTID": 74,
+                "tx_produto": null,
+                "tx_COD": "A073",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "EM FRENTE A FACULDADE ANHANGUERA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 75,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1250900102632,
+                    -22.8868586865645
+                ]
+            },
+            "properties": {
+                "OBJECTID": 75,
+                "tx_produto": null,
+                "tx_COD": "A074",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "LADO OPOSTO A FACULDADE ANHANGUERA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 76,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1243400108707,
+                    -22.8882753531838
+                ]
+            },
+            "properties": {
+                "OBJECTID": 76,
+                "tx_produto": null,
+                "tx_COD": "A075",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "EM FRENTE AO SUPERMERCADO INTERCONTINENTAL",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 77,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1240344556215,
+                    -22.8942753534239
+                ]
+            },
+            "properties": {
+                "OBJECTID": 77,
+                "tx_produto": null,
+                "tx_COD": "A076",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "BARCAS S/A",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 78,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1247011215938,
+                    -22.8952197982457
+                ]
+            },
+            "properties": {
+                "OBJECTID": 78,
+                "tx_produto": null,
+                "tx_COD": "A077",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "ENTRADA DO ESTACIONAMENTO DAS BARCAS SA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 79,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1245900110817,
+                    -22.8953586866069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 79,
+                "tx_produto": null,
+                "tx_COD": "A078",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "TERMINAL SUL - ABRIGO 1 - SENT. GRAGOATA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 80,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1246455663818,
+                    -22.8953864644029
+                ]
+            },
+            "properties": {
+                "OBJECTID": 80,
+                "tx_produto": null,
+                "tx_COD": "A079",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "TERMINAL SUL - ABRIGO 2 - SENT. GRAGOATA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 81,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1250900108271,
+                    -22.8956364647483
+                ]
+            },
+            "properties": {
+                "OBJECTID": 81,
+                "tx_produto": null,
+                "tx_COD": "A080",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "TERMINAL SUL - ABRIGO 3 - SENT. GRAGOATA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 82,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1251733444867,
+                    -22.8956642423431
+                ]
+            },
+            "properties": {
+                "OBJECTID": 82,
+                "tx_produto": null,
+                "tx_COD": "A081",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "TERMINAL SUL - ABRIGO 4 - SENT. GRAGOATA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 83,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1242844549835,
+                    -22.8956364645327
+                ]
+            },
+            "properties": {
+                "OBJECTID": 83,
+                "tx_produto": null,
+                "tx_COD": "A082",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "TERMINAL SUL - ABRIGO 1 - SENT. CENTRO - CANT. CENTRAL",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 84,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1242566777203,
+                    -22.8955809090294
+                ]
+            },
+            "properties": {
+                "OBJECTID": 84,
+                "tx_produto": null,
+                "tx_COD": "A083",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "TERMINAL SUL - ABRIGO 2 - SENT. CENTRO - CANT. CENTRAL",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 85,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1240622329903,
+                    -22.8956920207074
+                ]
+            },
+            "properties": {
+                "OBJECTID": 85,
+                "tx_produto": null,
+                "tx_COD": "A084",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "EM FRENTE AO EXTRA SUPERMERCADOS - ABRIGO 1",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 86,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0973400107754,
+                    -22.9056364665511
+                ]
+            },
+            "properties": {
+                "OBJECTID": 86,
+                "tx_produto": null,
+                "tx_COD": "A085",
+                "tx_endereco": "RUA MAESTRO JOSÉ BOTELHO",
+                "tx_referencia": "EM FRENTE AO VITAL BRASIL",
+                "tx_bairro": "VITAL BRASIL",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 87,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0988955666119,
+                    -22.9066086883416
+                ]
+            },
+            "properties": {
+                "OBJECTID": 87,
+                "tx_produto": null,
+                "tx_COD": "A086",
+                "tx_endereco": "AV. ARY PARREIRAS, 467",
+                "tx_referencia": " ",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 88,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1011733445613,
+                    -22.9030531324189
+                ]
+            },
+            "properties": {
+                "OBJECTID": 88,
+                "tx_produto": null,
+                "tx_COD": "A087",
+                "tx_endereco": "RUA MARIZ E BARROS X COLÉGIO BALTAZAR BERNARDINO",
+                "tx_referencia": " ",
+                "tx_bairro": "SANTA ROSA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 89,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1000066779111,
+                    -22.9013586881319
+                ]
+            },
+            "properties": {
+                "OBJECTID": 89,
+                "tx_produto": null,
+                "tx_COD": "A088",
+                "tx_endereco": "RUA SANTA ROSA X RUA SIQUEIRA CAMPOS",
+                "tx_referencia": "PRÓXIMO AO COLÉGIO SALESIANO",
+                "tx_bairro": "SANTA ROSA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 90,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1240622330092,
+                    -22.8957197984041
+                ]
+            },
+            "properties": {
+                "OBJECTID": 90,
+                "tx_produto": null,
+                "tx_COD": "A089",
+                "tx_endereco": "AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": "EM FRENTE AO EXTRA SUPERMERCADOS - ABRIGO 2",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 91,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1032566780984,
+                    -22.9094142434189
+                ]
+            },
+            "properties": {
+                "OBJECTID": 91,
+                "tx_produto": null,
+                "tx_COD": "A090",
+                "tx_endereco": "AV. ARY PARREIRAS",
+                "tx_referencia": "ÁGUAS DE NITERÓI",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 92,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.108340011454,
+                    -22.9115253544155
+                ]
+            },
+            "properties": {
+                "OBJECTID": 92,
+                "tx_produto": null,
+                "tx_COD": "A091",
+                "tx_endereco": "AV. ARY PARREIRAS",
+                "tx_referencia": "EM FRENTE ADM. REGIONAL DE ICARAÍ",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 93,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1103122334383,
+                    -22.9093309100383
+                ]
+            },
+            "properties": {
+                "OBJECTID": 93,
+                "tx_produto": null,
+                "tx_COD": "A092",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 419",
+                "tx_referencia": "ABRIGO 1 - LADO RESIDENCIAL",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 94,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1103400113419,
+                    -22.9093031325366
+                ]
+            },
+            "properties": {
+                "OBJECTID": 94,
+                "tx_produto": null,
+                "tx_COD": "A093",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 419",
+                "tx_referencia": "ABRIGO 2 - LADO RESIDENCIAL",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 95,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1105344554914,
+                    -22.9090253546342
+                ]
+            },
+            "properties": {
+                "OBJECTID": 95,
+                "tx_produto": null,
+                "tx_COD": "A094",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 409",
+                "tx_referencia": "LADO RESIDENCIAL",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 96,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1131177886994,
+                    -22.9063586879035
+                ]
+            },
+            "properties": {
+                "OBJECTID": 96,
+                "tx_produto": null,
+                "tx_COD": "A095",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 267",
+                "tx_referencia": "LADO RESIDENCIAL",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 97,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1218122334317,
+                    -22.9018031316403
+                ]
+            },
+            "properties": {
+                "OBJECTID": 97,
+                "tx_produto": null,
+                "tx_COD": "A096",
+                "tx_endereco": "RUA PAULO ALVES",
+                "tx_referencia": "EM FRENTE AO BRADESCO",
+                "tx_bairro": "INGÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 98,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1301177889122,
+                    -22.9040253540159
+                ]
+            },
+            "properties": {
+                "OBJECTID": 98,
+                "tx_produto": null,
+                "tx_COD": "A097",
+                "tx_endereco": "RUA PASSO DA PATRIA",
+                "tx_referencia": "PRAÇA DO SOLAR JAMBEIRO",
+                "tx_bairro": "INGÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 99,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1349511221193,
+                    -22.9053031310887
+                ]
+            },
+            "properties": {
+                "OBJECTID": 99,
+                "tx_produto": null,
+                "tx_COD": "A098",
+                "tx_endereco": "RUA BENJAMIM SODRÉ",
+                "tx_referencia": "EM FRENTE A UFF",
+                "tx_bairro": "GRAGOATA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 100,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1271177889126,
+                    -22.9074975759394
+                ]
+            },
+            "properties": {
+                "OBJECTID": 100,
+                "tx_produto": null,
+                "tx_COD": "A099",
+                "tx_endereco": "RUA BENJAMIM SODRÉ",
+                "tx_referencia": "PRÓXIMO AO MAC",
+                "tx_bairro": "GRAGOATA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 101,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1270066769719,
+                    -22.8897753535094
+                ]
+            },
+            "properties": {
+                "OBJECTID": 101,
+                "tx_produto": null,
+                "tx_COD": "A100",
+                "tx_endereco": "RUA PROFESSOR PLINIO LEITE",
+                "tx_referencia": "ATRÁS DO TERMINAL RODOVIÁRIO",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 102,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0997566766659,
+                    -22.8808031324745
+                ]
+            },
+            "properties": {
+                "OBJECTID": 102,
+                "tx_produto": null,
+                "tx_COD": "A101",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO JOÃO BRASIL",
+                "tx_referencia": "ABRIGO 3 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 103,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1161733436626,
+                    -22.8834420202295
+                ]
+            },
+            "properties": {
+                "OBJECTID": 103,
+                "tx_produto": null,
+                "tx_COD": "A119",
+                "tx_endereco": "PRAÇA DA RENASCENÇA",
+                "tx_referencia": "ABRIGO 1",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 104,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1142288995378,
+                    -22.8910531321264
+                ]
+            },
+            "properties": {
+                "OBJECTID": 104,
+                "tx_produto": null,
+                "tx_COD": "A122",
+                "tx_endereco": "AV. MARQUÊS DO PARANÁ",
+                "tx_referencia": "EM FRENTE DO ÁGUAS DE NITERÓI",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 105,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1187011214267,
+                    -22.8838586871848
+                ]
+            },
+            "properties": {
+                "OBJECTID": 105,
+                "tx_produto": null,
+                "tx_COD": "A232",
+                "tx_endereco": "Av. Feliciano Sodré",
+                "tx_referencia": "Em frente ao Rio Décor - Abrigo 1",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 106,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1019789004596,
+                    -22.9076920217609
+                ]
+            },
+            "properties": {
+                "OBJECTID": 106,
+                "tx_produto": null,
+                "tx_COD": "A106",
+                "tx_endereco": "AV. ROBERTO SILVEIRA, 493",
+                "tx_referencia": " ",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 107,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1035344556209,
+                    -22.9062197988483
+                ]
+            },
+            "properties": {
+                "OBJECTID": 107,
+                "tx_produto": null,
+                "tx_COD": "A107",
+                "tx_endereco": "AV. ROBERTO SILVEIRA, 409",
+                "tx_referencia": "CULTURA INGLESA",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 108,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1045066778449,
+                    -22.9052475768067
+                ]
+            },
+            "properties": {
+                "OBJECTID": 108,
+                "tx_produto": null,
+                "tx_COD": "A108",
+                "tx_endereco": "AV. ROBERTO SILVEIRA, 349",
+                "tx_referencia": "BRASIL SUPLEMENTOS",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 109,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1066177887478,
+                    -22.9032475770884
+                ]
+            },
+            "properties": {
+                "OBJECTID": 109,
+                "tx_produto": null,
+                "tx_COD": "A109",
+                "tx_endereco": "AV. ROBERTO SILVEIRA",
+                "tx_referencia": "EM FRENTE AO CREA",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 110,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1086177890943,
+                    -22.901330909655
+                ]
+            },
+            "properties": {
+                "OBJECTID": 110,
+                "tx_produto": null,
+                "tx_COD": "A110",
+                "tx_endereco": "AV. ROBERTO SILVEIRA, 123",
+                "tx_referencia": "UNIMED",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 111,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1103400114714,
+                    -22.899719798441
+                ]
+            },
+            "properties": {
+                "OBJECTID": 111,
+                "tx_produto": null,
+                "tx_COD": "A111",
+                "tx_endereco": "AV. ROBERTO SILVEIRA, 17",
+                "tx_referencia": "SHELL",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 112,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1120900108837,
+                    -22.8979697985448
+                ]
+            },
+            "properties": {
+                "OBJECTID": 112,
+                "tx_produto": null,
+                "tx_COD": "A112",
+                "tx_endereco": "AV. MARQUÊS DO PARANÁ",
+                "tx_referencia": "PRÉDIO TIJOLINHO",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 113,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1118955666465,
+                    -22.8974697983005
+                ]
+            },
+            "properties": {
+                "OBJECTID": 113,
+                "tx_produto": null,
+                "tx_COD": "A113",
+                "tx_endereco": "AV. MARQUÊS DO PARANÁ",
+                "tx_referencia": "CENTRO DIAGNÓSTICO",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 114,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.112534455167,
+                    -22.895636465567
+                ]
+            },
+            "properties": {
+                "OBJECTID": 114,
+                "tx_produto": null,
+                "tx_COD": "A114",
+                "tx_endereco": "AV. MARQUÊS DO PARANÁ",
+                "tx_referencia": "HOSP. ANTONIO PEDRO",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 115,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1135066775343,
+                    -22.8929142431604
+                ]
+            },
+            "properties": {
+                "OBJECTID": 115,
+                "tx_produto": null,
+                "tx_COD": "A115",
+                "tx_endereco": "AV. MARQUÊS DO PARANÁ, 51",
+                "tx_referencia": " ",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 116,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1148677882146,
+                    -22.8869975759026
+                ]
+            },
+            "properties": {
+                "OBJECTID": 116,
+                "tx_produto": null,
+                "tx_COD": "A116",
+                "tx_endereco": "AV. JANSEN DE MELLO",
+                "tx_referencia": "EM FRENTE A HYUNDAI",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 117,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1082844546861,
+                    -22.8809142430736
+                ]
+            },
+            "properties": {
+                "OBJECTID": 117,
+                "tx_produto": null,
+                "tx_COD": "A117",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA X RUA PADRE LEANDRO",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 118,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1091177877328,
+                    -22.8825253538193
+                ]
+            },
+            "properties": {
+                "OBJECTID": 118,
+                "tx_produto": null,
+                "tx_COD": "A118",
+                "tx_endereco": "RUA BENJAMIN CONSTANT, 26",
+                "tx_referencia": " ",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 119,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1161455657398,
+                    -22.8834697982851
+                ]
+            },
+            "properties": {
+                "OBJECTID": 119,
+                "tx_produto": null,
+                "tx_COD": "A120",
+                "tx_endereco": "PRAÇA DA RENASCENÇA",
+                "tx_referencia": "ABRIGO 2",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 120,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1150622322781,
+                    -22.8873586874678
+                ]
+            },
+            "properties": {
+                "OBJECTID": 120,
+                "tx_produto": null,
+                "tx_COD": "A121",
+                "tx_endereco": "AV. JANSEN DE MELLO",
+                "tx_referencia": "POSTO DE SAÚDE",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 121,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.122617787551,
+                    -22.8814142428156
+                ]
+            },
+            "properties": {
+                "OBJECTID": 121,
+                "tx_produto": null,
+                "tx_COD": "A123",
+                "tx_endereco": "RUA SÃO DIOGO, 71",
+                "tx_referencia": "EM FRENTE A MECANICA AMAZONICA",
+                "tx_bairro": "PONTA DA AREIA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 122,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1246733439506,
+                    -22.8827475756192
+                ]
+            },
+            "properties": {
+                "OBJECTID": 122,
+                "tx_produto": null,
+                "tx_COD": "A124",
+                "tx_endereco": "RUA CORONEL MIRANDA X PRAÇA DR. VITORINO",
+                "tx_referencia": " ",
+                "tx_bairro": "PONTA DA AREIA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 123,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1262011211372,
+                    -22.8844975758139
+                ]
+            },
+            "properties": {
+                "OBJECTID": 123,
+                "tx_produto": null,
+                "tx_COD": "A125",
+                "tx_endereco": "RUA CORONEL MIRANDA X AV. VISCONDE DO RIO BRANCO",
+                "tx_referencia": " ",
+                "tx_bairro": "PONTA DA AREIA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 124,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1043122324139,
+                    -22.8807197989009
+                ]
+            },
+            "properties": {
+                "OBJECTID": 124,
+                "tx_produto": null,
+                "tx_COD": "A126",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO N. SENHORA DAS MERCÊS",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 125,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1042011213075,
+                    -22.8807197986568
+                ]
+            },
+            "properties": {
+                "OBJECTID": 125,
+                "tx_produto": null,
+                "tx_COD": "A127",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO N. SENHORA DAS MERCÊS",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 126,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1034788992584,
+                    -22.8806920208243
+                ]
+            },
+            "properties": {
+                "OBJECTID": 126,
+                "tx_produto": null,
+                "tx_COD": "A128",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO N. SENHORA DAS MERCÊS",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 127,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1033955659699,
+                    -22.8806920208897
+                ]
+            },
+            "properties": {
+                "OBJECTID": 127,
+                "tx_produto": null,
+                "tx_COD": "A129",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO N. SENHORA DAS MERCÊS",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 128,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0998400102844,
+                    -22.8808586874632
+                ]
+            },
+            "properties": {
+                "OBJECTID": 128,
+                "tx_produto": null,
+                "tx_COD": "A130",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO JOÃO BRASIL",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 129,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0997566770186,
+                    -22.880858687419
+                ]
+            },
+            "properties": {
+                "OBJECTID": 129,
+                "tx_produto": null,
+                "tx_COD": "A131",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO JOÃO BRASIL",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 130,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0990066767457,
+                    -22.8808309102888
+                ]
+            },
+            "properties": {
+                "OBJECTID": 130,
+                "tx_produto": null,
+                "tx_COD": "A132",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO JOÃO BRASIL",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 131,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0989233435313,
+                    -22.8808309098086
+                ]
+            },
+            "properties": {
+                "OBJECTID": 131,
+                "tx_produto": null,
+                "tx_COD": "A133",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO JOÃO BRASIL",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 132,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0943955657926,
+                    -22.8810531322673
+                ]
+            },
+            "properties": {
+                "OBJECTID": 132,
+                "tx_produto": null,
+                "tx_COD": "A134",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO BAIRRO CHIC",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 133,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0943122325948,
+                    -22.881053132068
+                ]
+            },
+            "properties": {
+                "OBJECTID": 133,
+                "tx_produto": null,
+                "tx_COD": "A135",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO BAIRRO CHIC",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 134,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0935900098052,
+                    -22.8810253543986
+                ]
+            },
+            "properties": {
+                "OBJECTID": 134,
+                "tx_produto": null,
+                "tx_COD": "A136",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO BAIRRO CHIC",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 135,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0934788989258,
+                    -22.8810253547652
+                ]
+            },
+            "properties": {
+                "OBJECTID": 135,
+                "tx_produto": null,
+                "tx_COD": "A137",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO BAIRRO CHIC",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 136,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0933955657703,
+                    -22.8810253549891
+                ]
+            },
+            "properties": {
+                "OBJECTID": 136,
+                "tx_produto": null,
+                "tx_COD": "A138",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO BAIRRO CHIC",
+                "tx_referencia": "ABRIGO 3 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 137,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0897288986909,
+                    -22.881219799041
+                ]
+            },
+            "properties": {
+                "OBJECTID": 137,
+                "tx_produto": null,
+                "tx_COD": "A139",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO HORTO",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 138,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0896455655465,
+                    -22.8812197990957
+                ]
+            },
+            "properties": {
+                "OBJECTID": 138,
+                "tx_produto": null,
+                "tx_COD": "A140",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO HORTO",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 139,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0888677878308,
+                    -22.8811920213347
+                ]
+            },
+            "properties": {
+                "OBJECTID": 139,
+                "tx_produto": null,
+                "tx_COD": "A141",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO HORTO",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 140,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0888122324274,
+                    -22.8811920216776
+                ]
+            },
+            "properties": {
+                "OBJECTID": 140,
+                "tx_produto": null,
+                "tx_COD": "A142",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO HORTO",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 141,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0841177874781,
+                    -22.8814142437317
+                ]
+            },
+            "properties": {
+                "OBJECTID": 141,
+                "tx_produto": null,
+                "tx_COD": "A143",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO RIODADES",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 142,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0840066767166,
+                    -22.8814142437725
+                ]
+            },
+            "properties": {
+                "OBJECTID": 142,
+                "tx_produto": null,
+                "tx_COD": "A144",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO RIODADES",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 143,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0839233436401,
+                    -22.8814142444293
+                ]
+            },
+            "properties": {
+                "OBJECTID": 143,
+                "tx_produto": null,
+                "tx_COD": "A145",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO RIODADES",
+                "tx_referencia": "ABRIGO 3 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 144,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0832011212092,
+                    -22.8813864664633
+                ]
+            },
+            "properties": {
+                "OBJECTID": 144,
+                "tx_produto": null,
+                "tx_COD": "A146",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO RIODADES",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 145,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.083117788183,
+                    -22.8813864666987
+                ]
+            },
+            "properties": {
+                "OBJECTID": 145,
+                "tx_produto": null,
+                "tx_COD": "A147",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO RIODADES",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 146,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0803122326564,
+                    -22.8815531332206
+                ]
+            },
+            "properties": {
+                "OBJECTID": 146,
+                "tx_produto": null,
+                "tx_COD": "A148",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO GETULINHO",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 147,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0802288986615,
+                    -22.8815531328248
+                ]
+            },
+            "properties": {
+                "OBJECTID": 147,
+                "tx_produto": null,
+                "tx_COD": "A149",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO GETULINHO",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CAIXA D´ÁGUA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 148,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0795900103262,
+                    -22.8815253550793
+                ]
+            },
+            "properties": {
+                "OBJECTID": 148,
+                "tx_produto": null,
+                "tx_COD": "A150",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO GETULINHO",
+                "tx_referencia": "ABRIGO 1 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 149,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0795066763656,
+                    -22.8815253552088
+                ]
+            },
+            "properties": {
+                "OBJECTID": 149,
+                "tx_produto": null,
+                "tx_COD": "A151",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO GETULINHO",
+                "tx_referencia": "ABRIGO 2 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 150,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0787844543806,
+                    -22.8807475773496
+                ]
+            },
+            "properties": {
+                "OBJECTID": 150,
+                "tx_produto": null,
+                "tx_COD": "A152",
+                "tx_endereco": "RUA TEIXEIRA DE FREITAS",
+                "tx_referencia": "EM FRENTE HOSPITAL GETULIO VARGAS",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 151,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0778955653214,
+                    -22.8769697995001
+                ]
+            },
+            "properties": {
+                "OBJECTID": 151,
+                "tx_produto": null,
+                "tx_COD": "A153",
+                "tx_endereco": "RUA TEIXEIRA DE FREITAS, 229",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 152,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0767011207107,
+                    -22.8755253552548
+                ]
+            },
+            "properties": {
+                "OBJECTID": 152,
+                "tx_produto": null,
+                "tx_COD": "A154",
+                "tx_endereco": "RUA TEIXEIRA DE FREITAS, 312",
+                "tx_referencia": "EM FRENTE A ASSEMBLEIA DE DEUS",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 153,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0917844542204,
+                    -22.8684697993709
+                ]
+            },
+            "properties": {
+                "OBJECTID": 153,
+                "tx_produto": null,
+                "tx_COD": "A155",
+                "tx_endereco": "RUA JOÃO BRASIL, 1671",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 154,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0943677875012,
+                    -22.8683864654325
+                ]
+            },
+            "properties": {
+                "OBJECTID": 154,
+                "tx_produto": null,
+                "tx_COD": "A156",
+                "tx_endereco": "PRAÇA VEREADOR JOSÉ VICENTE SOCERTO, 238",
+                "tx_referencia": "EM FRENTE A MASSONARIA",
+                "tx_bairro": "ENGENHOCA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 155,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0954233431806,
+                    -22.8700253544862
+                ]
+            },
+            "properties": {
+                "OBJECTID": 155,
+                "tx_produto": null,
+                "tx_COD": "A157",
+                "tx_endereco": "PRAÇA VEREADOR JOSÉ VICENTE SOCERTO, 29",
+                "tx_referencia": "EM FRENTE AO DPO DA ENGENHOCA",
+                "tx_bairro": "ENGENHOCA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 156,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0969233426546,
+                    -22.8701086873464
+                ]
+            },
+            "properties": {
+                "OBJECTID": 156,
+                "tx_produto": null,
+                "tx_COD": "A158",
+                "tx_endereco": "AV. JOÃO MENDES X RUA CAPITÃO ALFREDO CRUZ",
+                "tx_referencia": " ",
+                "tx_bairro": "ENGENHOCA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 157,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.099145565579,
+                    -22.8711364657215
+                ]
+            },
+            "properties": {
+                "OBJECTID": 157,
+                "tx_produto": null,
+                "tx_COD": "A159",
+                "tx_endereco": "RUA JOSÉ VICENTE SOBRINHO, 562",
+                "tx_referencia": " ",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 158,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.099312231121,
+                    -22.8646086878639
+                ]
+            },
+            "properties": {
+                "OBJECTID": 158,
+                "tx_produto": null,
+                "tx_COD": "A160",
+                "tx_endereco": "RUA DR.LUIZ PALMIER",
+                "tx_referencia": "EM FRENTE A ESCOLA MUNICIPAL ANDRÉ TROUCHE",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 159,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0973122310563,
+                    -22.8634420210914
+                ]
+            },
+            "properties": {
+                "OBJECTID": 159,
+                "tx_produto": null,
+                "tx_COD": "A161",
+                "tx_endereco": "RUA DR.LUIZ PALMIER",
+                "tx_referencia": "LADO OPOSTO AO COND. NITERÓI GARDEN, Nº1001",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 160,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0962011199812,
+                    -22.8628309099417
+                ]
+            },
+            "properties": {
+                "OBJECTID": 160,
+                "tx_produto": null,
+                "tx_COD": "A162",
+                "tx_endereco": "RUA DR. LUIZ PALMIER",
+                "tx_referencia": "LADO OPOSTO A PRAÇA FLÁVIO PALMIER",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 161,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1027288977822,
+                    -22.8612753535916
+                ]
+            },
+            "properties": {
+                "OBJECTID": 161,
+                "tx_produto": null,
+                "tx_COD": "A163",
+                "tx_endereco": "RUA GEN. CASTRIOTO",
+                "tx_referencia": "ABRIGO 1 - EM FRENTE AO SENAI",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 162,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1027011198554,
+                    -22.8612197985757
+                ]
+            },
+            "properties": {
+                "OBJECTID": 162,
+                "tx_produto": null,
+                "tx_COD": "A164",
+                "tx_endereco": "RUA GEN. CASTRIOTO",
+                "tx_referencia": "ABRIGO 2 - EM FRENTE AO SENAI",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 163,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1036455649662,
+                    -22.8631642427555
+                ]
+            },
+            "properties": {
+                "OBJECTID": 163,
+                "tx_produto": null,
+                "tx_COD": "A165",
+                "tx_endereco": "RUA GEN. CASTRIOTO",
+                "tx_referencia": "EM FRENTE AO CEMITÉRIO DE MARUI",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 164,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1042288981029,
+                    -22.8686920208877
+                ]
+            },
+            "properties": {
+                "OBJECTID": 164,
+                "tx_produto": null,
+                "tx_COD": "A166",
+                "tx_endereco": "RUA GEN. CASTRIOTO",
+                "tx_referencia": "EM FRENTE AO COLÉGIO PEDRO II - NITERÓI",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 165,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1059233428724,
+                    -22.8733031318956
+                ]
+            },
+            "properties": {
+                "OBJECTID": 165,
+                "tx_produto": null,
+                "tx_COD": "A167",
+                "tx_endereco": "RUA DR. BENJAMIN CONSTANT, 477",
+                "tx_referencia": " ",
+                "tx_bairro": "LARGO DO BARRADAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 166,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1072011207874,
+                    -22.874858687662
+                ]
+            },
+            "properties": {
+                "OBJECTID": 166,
+                "tx_produto": null,
+                "tx_COD": "A168",
+                "tx_endereco": "RUA DR. BENJAMIN CONSTANT, 397",
+                "tx_referencia": " ",
+                "tx_bairro": "LARGO DO BARRADAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 167,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1086733432711,
+                    -22.877164243218
+                ]
+            },
+            "properties": {
+                "OBJECTID": 167,
+                "tx_produto": null,
+                "tx_COD": "A169",
+                "tx_endereco": "RUA DR. BENJAMIN CONSTANT, 284",
+                "tx_referencia": " ",
+                "tx_bairro": "LARGO DO BARRADAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 168,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1154511210934,
+                    -22.8706364646646
+                ]
+            },
+            "properties": {
+                "OBJECTID": 168,
+                "tx_produto": null,
+                "tx_COD": "A170",
+                "tx_endereco": "RUA MARIO NEVES, 391",
+                "tx_referencia": "EM FRENTE A ASSOCIAÇÃO DE MORADORES",
+                "tx_bairro": "ILHA DA CONCEIÇÃO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 169,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1153122322956,
+                    -22.8726086870139
+                ]
+            },
+            "properties": {
+                "OBJECTID": 169,
+                "tx_produto": null,
+                "tx_COD": "A171",
+                "tx_endereco": "RUA MARIO NEVES, 356",
+                "tx_referencia": " ",
+                "tx_bairro": "ILHA DA CONCEIÇÃO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 170,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1140066763183,
+                    -22.8776642425078
+                ]
+            },
+            "properties": {
+                "OBJECTID": 170,
+                "tx_produto": null,
+                "tx_COD": "A172",
+                "tx_endereco": "RUA MARIO NEVES, 1",
+                "tx_referencia": " ",
+                "tx_bairro": "ILHA DA CONCEIÇÃO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 171,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1125900098927,
+                    -22.8785531315034
+                ]
+            },
+            "properties": {
+                "OBJECTID": 171,
+                "tx_produto": null,
+                "tx_COD": "A173",
+                "tx_endereco": "ENTRADA DA ILHA DA CONCEIÇÃO",
+                "tx_referencia": "EM FRENTE AO DPO DA ILHA DA CONCEIÇÃO",
+                "tx_bairro": "ILHA DA CONCEIÇÃO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 172,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1058122322706,
+                    -22.8734697984887
+                ]
+            },
+            "properties": {
+                "OBJECTID": 172,
+                "tx_produto": null,
+                "tx_COD": "A174",
+                "tx_endereco": "RUA BENJAMIN CONSTANT, 397",
+                "tx_referencia": " ",
+                "tx_bairro": "ENGENHOCA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 173,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1041177871116,
+                    -22.8713031318805
+                ]
+            },
+            "properties": {
+                "OBJECTID": 173,
+                "tx_produto": null,
+                "tx_COD": "A175",
+                "tx_endereco": "RUA PRES. CRAVEIRO LOPES, 606",
+                "tx_referencia": " ",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 174,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0991733432991,
+                    -22.8711364654368
+                ]
+            },
+            "properties": {
+                "OBJECTID": 174,
+                "tx_produto": null,
+                "tx_COD": "A176",
+                "tx_endereco": "RUA CEL. GUIMARÃES, 505",
+                "tx_referencia": "PRÓXIMO AO COLÉGIO MULLULU DA VEIGA",
+                "tx_bairro": "ENGENHOCA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 175,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0962011203348,
+                    -22.8708864657014
+                ]
+            },
+            "properties": {
+                "OBJECTID": 175,
+                "tx_produto": null,
+                "tx_COD": "A177",
+                "tx_endereco": "RUA CEL. GUIMARÃES, 843",
+                "tx_referencia": " ",
+                "tx_bairro": "ENGENHOCA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 176,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.10175667605,
+                    -22.8706920207415
+                ]
+            },
+            "properties": {
+                "OBJECTID": 176,
+                "tx_produto": null,
+                "tx_COD": "A178",
+                "tx_endereco": "RUA CEL GUIMARÃES, 282",
+                "tx_referencia": "EM FRENTE AO COLÉGIO NITERÓI",
+                "tx_bairro": "ENGENHOCA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 177,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0963955650755,
+                    -22.8749975768349
+                ]
+            },
+            "properties": {
+                "OBJECTID": 177,
+                "tx_produto": null,
+                "tx_COD": "A179",
+                "tx_endereco": "RUA JOÃO BRASIL, 845",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 178,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0990066761794,
+                    -22.8771642430531
+                ]
+            },
+            "properties": {
+                "OBJECTID": 178,
+                "tx_produto": null,
+                "tx_COD": "A180",
+                "tx_endereco": "RUA JOÃO BRASIL, 366",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 179,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1006455653067,
+                    -22.8785253547314
+                ]
+            },
+            "properties": {
+                "OBJECTID": 179,
+                "tx_produto": null,
+                "tx_COD": "A181",
+                "tx_endereco": "RUA JOÃO BRASIL, 240",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 180,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0807566764067,
+                    -22.8826086884243
+                ]
+            },
+            "properties": {
+                "OBJECTID": 180,
+                "tx_produto": null,
+                "tx_COD": "A182",
+                "tx_endereco": "RUA SÃO JOSÉ, 240",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 181,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0809788986999,
+                    -22.8827475773837
+                ]
+            },
+            "properties": {
+                "OBJECTID": 181,
+                "tx_produto": null,
+                "tx_COD": "A183",
+                "tx_endereco": "RUA SOARES DE MIRANDA, 7",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 182,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.082756676751,
+                    -22.8826920216232
+                ]
+            },
+            "properties": {
+                "OBJECTID": 182,
+                "tx_produto": null,
+                "tx_COD": "A184",
+                "tx_endereco": "RUA SOARES DE MIRANDA, 80",
+                "tx_referencia": "LADO OPOSTO AO C.E. PAULO FREIRE",
+                "tx_bairro": "LARGO DO BARRADAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 183,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0855066770495,
+                    -22.8826364665791
+                ]
+            },
+            "properties": {
+                "OBJECTID": 183,
+                "tx_produto": null,
+                "tx_COD": "A185",
+                "tx_endereco": "RUA SOARES DE MIRANDA, 20",
+                "tx_referencia": "AO LADO DO BAR SHOW DE BOLA",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 184,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0860066766352,
+                    -22.8839420213729
+                ]
+            },
+            "properties": {
+                "OBJECTID": 184,
+                "tx_produto": null,
+                "tx_COD": "A186",
+                "tx_endereco": "RUA DESEMBARGADOR LIMA CASTRO, 102",
+                "tx_referencia": " ",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 185,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0869233433738,
+                    -22.8871364663038
+                ]
+            },
+            "properties": {
+                "OBJECTID": 185,
+                "tx_produto": null,
+                "tx_COD": "A187",
+                "tx_endereco": "RUA DESEMBARGADOR LIMA CASTRO",
+                "tx_referencia": "EM FRENTE AO DETRAN",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 186,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0868122320676,
+                    -22.8871642444425
+                ]
+            },
+            "properties": {
+                "OBJECTID": 186,
+                "tx_produto": null,
+                "tx_COD": "A188",
+                "tx_endereco": "RUA DESEMBARGADOR LIMA CASTRO",
+                "tx_referencia": "LADO OPOSTO AO DETRAN",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 187,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0881177884483,
+                    -22.8879420221458
+                ]
+            },
+            "properties": {
+                "OBJECTID": 187,
+                "tx_produto": null,
+                "tx_COD": "A189",
+                "tx_endereco": "RUA DESEMBARGADOR LIMA CASTRO, 337",
+                "tx_referencia": "LADO OPOSTO AO CONDOMINIO RESIDENCIAL VILA VERDE",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 188,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0878955663807,
+                    -22.8880253554783
+                ]
+            },
+            "properties": {
+                "OBJECTID": 188,
+                "tx_produto": null,
+                "tx_COD": "A190",
+                "tx_endereco": "RUA DESEMBARGADOR LIMA CASTRO, 377",
+                "tx_referencia": "EM FRENTE AO CONDOMINIO RESIDENCIAL VILA VERDE",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 189,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0906455659762,
+                    -22.8897475773597
+                ]
+            },
+            "properties": {
+                "OBJECTID": 189,
+                "tx_produto": null,
+                "tx_COD": "A191",
+                "tx_endereco": "RUA NORONHA TORREZÃO, 739",
+                "tx_referencia": " ",
+                "tx_bairro": "CUBANGO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 190,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0983400104712,
+                    -22.8911086882704
+                ]
+            },
+            "properties": {
+                "OBJECTID": 190,
+                "tx_produto": null,
+                "tx_COD": "A192",
+                "tx_endereco": "RUA NORONHA TORREZÃO",
+                "tx_referencia": "LADO OPOSTO AO Nº 416",
+                "tx_bairro": "CUBANGO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 191,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0987844547817,
+                    -22.8923031327458
+                ]
+            },
+            "properties": {
+                "OBJECTID": 191,
+                "tx_produto": null,
+                "tx_COD": "A193",
+                "tx_endereco": "RUA NORONHA TORREZÃO",
+                "tx_referencia": "LADO OPOSTO AO Nº 316",
+                "tx_bairro": "CUBANGO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 192,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0996455664486,
+                    -22.8943031322149
+                ]
+            },
+            "properties": {
+                "OBJECTID": 192,
+                "tx_produto": null,
+                "tx_COD": "A194",
+                "tx_endereco": "RUA NORONHA TORREZÃO, 250",
+                "tx_referencia": " ",
+                "tx_bairro": "CUBANGO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 193,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.09984001107,
+                    -22.89460868848
+                ]
+            },
+            "properties": {
+                "OBJECTID": 193,
+                "tx_produto": null,
+                "tx_COD": "A195",
+                "tx_endereco": "RUA NORONHA TORREZÃO, 217",
+                "tx_referencia": "EM FRENTE A CONCESSIONÁRIA KIA MOTORS",
+                "tx_bairro": "CUBANGO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 194,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1017844549316,
+                    -22.8972753549957
+                ]
+            },
+            "properties": {
+                "OBJECTID": 194,
+                "tx_produto": null,
+                "tx_COD": "A196",
+                "tx_endereco": "RUA NORONHA TORREZÃO, 75",
+                "tx_referencia": " ",
+                "tx_bairro": "SANTA ROSA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 195,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1010900110198,
+                    -22.897025355139
+                ]
+            },
+            "properties": {
+                "OBJECTID": 195,
+                "tx_produto": null,
+                "tx_COD": "A197",
+                "tx_endereco": "RUA NORONHA TORREZÃO, 108",
+                "tx_referencia": " ",
+                "tx_bairro": "SANTA ROSA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 196,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0941455671622,
+                    -22.9038586886969
+                ]
+            },
+            "properties": {
+                "OBJECTID": 196,
+                "tx_produto": null,
+                "tx_COD": "A198",
+                "tx_endereco": "RUA MARIO VIANA, 438",
+                "tx_referencia": " ",
+                "tx_bairro": "SANTA ROSA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 197,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1158955664674,
+                    -22.9041364655435
+                ]
+            },
+            "properties": {
+                "OBJECTID": 197,
+                "tx_produto": null,
+                "tx_COD": "A199",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES X PRAÇA GETULIO VARGAS",
+                "tx_referencia": " ",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 198,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0126455679247,
+                    -22.9277198033792
+                ]
+            },
+            "properties": {
+                "OBJECTID": 198,
+                "tx_produto": null,
+                "tx_COD": "A200",
+                "tx_endereco": "AV. EWERTON XAVIER, 4255",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 199,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0158677901192,
+                    -22.9299975812641
+                ]
+            },
+            "properties": {
+                "OBJECTID": 199,
+                "tx_produto": null,
+                "tx_COD": "A201",
+                "tx_endereco": "AV. EWERTON XAVIER, 3843",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 200,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0179789017112,
+                    -22.9315253588567
+                ]
+            },
+            "properties": {
+                "OBJECTID": 200,
+                "tx_produto": null,
+                "tx_COD": "A202",
+                "tx_endereco": "AV. EWERTON XAVIER, 3563",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 201,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0090344566856,
+                    -22.9251920255809
+                ]
+            },
+            "properties": {
+                "OBJECTID": 201,
+                "tx_produto": null,
+                "tx_COD": "A203",
+                "tx_endereco": "AV. EWERTON XAVIER, 3359",
+                "tx_referencia": " ",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 202,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0252844569378,
+                    -22.9366642477771
+                ]
+            },
+            "properties": {
+                "OBJECTID": 202,
+                "tx_produto": null,
+                "tx_COD": "A204",
+                "tx_endereco": "AV. EWERTON XAVIER, 2752",
+                "tx_referencia": "GOIABÃO",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 203,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0268955683369,
+                    -22.9388031362105
+                ]
+            },
+            "properties": {
+                "OBJECTID": 203,
+                "tx_produto": null,
+                "tx_COD": "A205",
+                "tx_endereco": "AV. EWERTON XAVIER",
+                "tx_referencia": "EM FRENTE A MARMORARIA PIETRAS",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 204,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0318400130013,
+                    -22.9461086923375
+                ]
+            },
+            "properties": {
+                "OBJECTID": 204,
+                "tx_produto": null,
+                "tx_COD": "A206",
+                "tx_endereco": "AV. EWERTON XAVIER",
+                "tx_referencia": "EM FRENTE AO BRADESCO",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 205,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0762289026743,
+                    -22.9536086904842
+                ]
+            },
+            "properties": {
+                "OBJECTID": 205,
+                "tx_produto": null,
+                "tx_COD": "A207",
+                "tx_endereco": "AV. ACÚRCIO TORRES, 2151",
+                "tx_referencia": " ",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 206,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1188400107769,
+                    -22.8943864652115
+                ]
+            },
+            "properties": {
+                "OBJECTID": 206,
+                "tx_produto": null,
+                "tx_COD": "A208",
+                "tx_endereco": "RUA DA CONCEIÇÃO",
+                "tx_referencia": "EM FRENTE AO NITERÓI SHOPPING",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 207,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1121177882322,
+                    -22.8967197989631
+                ]
+            },
+            "properties": {
+                "OBJECTID": 207,
+                "tx_produto": null,
+                "tx_COD": "A209",
+                "tx_endereco": "AV. MARQUÊS DO PARANÁ, 349",
+                "tx_referencia": "EM FRENTE AO COND. GRAN LIFE ICARAÍ",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 208,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0939789005782,
+                    -22.9197475778407
+                ]
+            },
+            "properties": {
+                "OBJECTID": 208,
+                "tx_produto": null,
+                "tx_COD": "A070",
+                "tx_endereco": "AV. QUINTINO BOCAIUVA, 151",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 209,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0943955672507,
+                    -22.9173864663463
+                ]
+            },
+            "properties": {
+                "OBJECTID": 209,
+                "tx_produto": null,
+                "tx_COD": "A071",
+                "tx_endereco": "AV. QUINTINO BOCAIUVA, 183",
+                "tx_referencia": " ",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 210,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0946177894128,
+                    -22.9159420217267
+                ]
+            },
+            "properties": {
+                "OBJECTID": 210,
+                "tx_produto": null,
+                "tx_COD": "A072",
+                "tx_endereco": "AV. QUINTINO BOCAIUVA",
+                "tx_referencia": "AO LADO DO DIAMANTE",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 211,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0968122358227,
+                    -22.9514420227796
+                ]
+            },
+            "properties": {
+                "OBJECTID": 211,
+                "tx_produto": null,
+                "tx_COD": "A218",
+                "tx_endereco": "AVENIDA ALMIRANTE TAMANDARÉ",
+                "tx_referencia": "PROXIMO AO NUMERO 38",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 212,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.031645569226,
+                    -22.9674420258267
+                ]
+            },
+            "properties": {
+                "OBJECTID": 212,
+                "tx_produto": null,
+                "tx_COD": "A219",
+                "tx_endereco": "ESTRADA DE ITACOATIARA, 600",
+                "tx_referencia": " ",
+                "tx_bairro": "ITACOATIARA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 213,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1129789001444,
+                    -22.8999420205577
+                ]
+            },
+            "properties": {
+                "OBJECTID": 213,
+                "tx_produto": null,
+                "tx_COD": "A220",
+                "tx_endereco": "Rua Fagundes Varella, 637",
+                "tx_referencia": " ",
+                "tx_bairro": "INGÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 214,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0445622367621,
+                    -22.9705531363712
+                ]
+            },
+            "properties": {
+                "OBJECTID": 214,
+                "tx_produto": null,
+                "tx_COD": "A221",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES X PONTO FINAL",
+                "tx_referencia": "Praia de Itaipu",
+                "tx_bairro": "ITAIPU",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 215,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0997566770186,
+                    -22.880858687419
+                ]
+            },
+            "properties": {
+                "OBJECTID": 215,
+                "tx_produto": null,
+                "tx_COD": "A222",
+                "tx_endereco": "ALAMEDA SÃO BOAVENTURA - ESTAÇÃO JOÃO BRASIL",
+                "tx_referencia": "ABRIGO 3 - SENTIDO CENTRO",
+                "tx_bairro": "FONSECA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 216,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1218400103094,
+                    -22.8849142428613
+                ]
+            },
+            "properties": {
+                "OBJECTID": 216,
+                "tx_produto": null,
+                "tx_COD": "A223",
+                "tx_endereco": "AVENIDA FELICIANO SODRÉ",
+                "tx_referencia": "EM FRENTE A RODOVIÁRIA",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 217,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0956177869951,
+                    -22.8613864651718
+                ]
+            },
+            "properties": {
+                "OBJECTID": 217,
+                "tx_produto": null,
+                "tx_COD": "A224",
+                "tx_endereco": "RUA DOUTOR MARCH,230",
+                "tx_referencia": "EM FRENTE AO SUPERMERCADO GRAN MARCHE",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 218,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1023677870912,
+                    -22.8687475767236
+                ]
+            },
+            "properties": {
+                "OBJECTID": 218,
+                "tx_produto": null,
+                "tx_COD": "A225",
+                "tx_endereco": "RUA CRAVEIRO LOPES,230",
+                "tx_referencia": "EM FRENTE A SECRATARIA DE ORDEM PÚBLICA",
+                "tx_bairro": "BARRETO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 219,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1135622331124,
+                    -22.8999420210039
+                ]
+            },
+            "properties": {
+                "OBJECTID": 219,
+                "tx_produto": null,
+                "tx_COD": "A226",
+                "tx_endereco": "RUA  FAGUNDES VARELA,550",
+                "tx_referencia": " ",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 220,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.107534455546,
+                    -22.8993586874685
+                ]
+            },
+            "properties": {
+                "OBJECTID": 220,
+                "tx_produto": null,
+                "tx_COD": "A227",
+                "tx_endereco": "RUA GEN. PEREIRA DA SILVA X RUA DR. PAULO CÉSAR",
+                "tx_referencia": "PRAÇA DOS ESCOTEIROS",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 221,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.067145566541,
+                    -22.9064698008483
+                ]
+            },
+            "properties": {
+                "OBJECTID": 221,
+                "tx_produto": null,
+                "tx_COD": "A228",
+                "tx_endereco": "RUA REV. ARMANDO FERREIRA",
+                "tx_referencia": "EM FRENTE AO SUPERMARKET",
+                "tx_bairro": "LARGO DA BATALHA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 222,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0714511240179,
+                    -22.9349142456574
+                ]
+            },
+            "properties": {
+                "OBJECTID": 222,
+                "tx_produto": null,
+                "tx_COD": "A229",
+                "tx_endereco": "AVENIDA DEZ",
+                "tx_referencia": "PRÓXIMO A RUA VER. LUIS BOTELHO",
+                "tx_bairro": "CAFUBÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 223,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0682011242556,
+                    -22.9382753573625
+                ]
+            },
+            "properties": {
+                "OBJECTID": 223,
+                "tx_produto": null,
+                "tx_COD": "A230",
+                "tx_endereco": "Av. Raul de Oliveira Rodrigues, 353",
+                "tx_referencia": " ",
+                "tx_bairro": "CAFUBÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 224,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -42.9860900110917,
+                    -22.9105253602852
+                ]
+            },
+            "properties": {
+                "OBJECTID": 224,
+                "tx_produto": null,
+                "tx_COD": "A231",
+                "tx_endereco": "AV. CENTRAL EWERTON XAVIER",
+                "tx_referencia": "PONTO FINAL DO ÔNIBUS 46",
+                "tx_bairro": "VARZEA DAS MOÇAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 225,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1186455661419,
+                    -22.8838309094017
+                ]
+            },
+            "properties": {
+                "OBJECTID": 225,
+                "tx_produto": null,
+                "tx_COD": "A233",
+                "tx_endereco": "Av. Feliciano Sodré",
+                "tx_referencia": "Em frente ao Rio Décor - Abrigo 2",
+                "tx_bairro": "CENTRO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 226,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0922011225115,
+                    -22.8988586888502
+                ]
+            },
+            "properties": {
+                "OBJECTID": 226,
+                "tx_produto": null,
+                "tx_COD": "A234",
+                "tx_endereco": "Rua Dr. Martins Torres",
+                "tx_referencia": "Em frente ao HPMN",
+                "tx_bairro": "SANTA ROSA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 227,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0681455647722,
+                    -22.8727198003671
+                ]
+            },
+            "properties": {
+                "OBJECTID": 227,
+                "tx_produto": null,
+                "tx_COD": "A235",
+                "tx_endereco": "Estrada Bento Pestana, 2077",
+                "tx_referencia": "ABRIGO 1",
+                "tx_bairro": "BALDEADOR",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 228,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0681177870131,
+                    -22.8729975782887
+                ]
+            },
+            "properties": {
+                "OBJECTID": 228,
+                "tx_produto": null,
+                "tx_COD": "A236",
+                "tx_endereco": "Estrada Bento Pestana, 2077",
+                "tx_referencia": "ABRIGO 2",
+                "tx_bairro": "BALDEADOR",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 229,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0677844572779,
+                    -22.9383864680962
+                ]
+            },
+            "properties": {
+                "OBJECTID": 229,
+                "tx_produto": null,
+                "tx_COD": "A237",
+                "tx_endereco": "Av. Raul de Oliveira Rodrigues, 382",
+                "tx_referencia": " ",
+                "tx_bairro": "CAFUBÁ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 230,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0333400097978,
+                    -22.8881920238885
+                ]
+            },
+            "properties": {
+                "OBJECTID": 230,
+                "tx_produto": null,
+                "tx_COD": "A238",
+                "tx_endereco": "ESTRADA CAETANO MONTEIRO",
+                "tx_referencia": "EM FRENTE AO PÉROLA",
+                "tx_bairro": "PENDOTIBA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 231,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0896177891584,
+                    -22.8988031326449
+                ]
+            },
+            "properties": {
+                "OBJECTID": 231,
+                "tx_produto": null,
+                "tx_COD": "A239",
+                "tx_endereco": "Rua Dr. Martins Torres",
+                "tx_referencia": "Em frente ao nº 342",
+                "tx_bairro": "SANTA ROSA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 232,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0718677874032,
+                    -22.8811642448311
+                ]
+            },
+            "properties": {
+                "OBJECTID": 232,
+                "tx_produto": null,
+                "tx_COD": "A240",
+                "tx_endereco": "R. do Coelho",
+                "tx_referencia": " ",
+                "tx_bairro": "BALDEADOR",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 233,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0562011236796,
+                    -22.9416364690596
+                ]
+            },
+            "properties": {
+                "OBJECTID": 233,
+                "tx_produto": null,
+                "tx_COD": "A241",
+                "tx_endereco": "ESTRADA FRANCISCO DA CRUZ NUNES , 24",
+                "tx_referencia": "EM FRENTE AO MULTICENTER",
+                "tx_bairro": "PIRATININGA",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 234,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0980900124949,
+                    -22.9321920219111
+                ]
+            },
+            "properties": {
+                "OBJECTID": 234,
+                "tx_produto": null,
+                "tx_COD": "A068",
+                "tx_endereco": "AV. PREFEITO SILVIO PICANÇO",
+                "tx_referencia": "HOSP. PSIQUIATRICO - NÃO EXISTE MAIS",
+                "tx_bairro": "CHARITAS",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 235,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1121177891353,
+                    -22.9076086878914
+                ]
+            },
+            "properties": {
+                "OBJECTID": 235,
+                "tx_produto": null,
+                "tx_COD": "A102",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 335",
+                "tx_referencia": "ABRIGO 1 - LADO MAR - CLUBE CENTRAL",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 236,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1120900109677,
+                    -22.9076364657457
+                ]
+            },
+            "properties": {
+                "OBJECTID": 236,
+                "tx_produto": null,
+                "tx_COD": "A103",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 335",
+                "tx_referencia": "ABRIGO 2 - LADO MAR - CLUBE CENTRAL",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 237,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1100344563716,
+                    -22.9102197987013
+                ]
+            },
+            "properties": {
+                "OBJECTID": 237,
+                "tx_produto": null,
+                "tx_COD": "A104",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 457",
+                "tx_referencia": "ABRIGO 1 - LADO MAR",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 238,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1100622340863,
+                    -22.9102753546489
+                ]
+            },
+            "properties": {
+                "OBJECTID": 238,
+                "tx_produto": null,
+                "tx_COD": "A105",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 457",
+                "tx_referencia": "ABRIGO 2 - LADO MAR",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 239,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1152288996902,
+                    -22.9047475766023
+                ]
+            },
+            "properties": {
+                "OBJECTID": 239,
+                "tx_produto": null,
+                "tx_COD": "A210",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 177",
+                "tx_referencia": "ABRIGO 2 - LADO MAR",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 240,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0948400119073,
+                    -22.9166920223492
+                ]
+            },
+            "properties": {
+                "OBJECTID": 240,
+                "tx_produto": null,
+                "tx_COD": "A212",
+                "tx_endereco": "AV. QUINTINO BOCAIUVA",
+                "tx_referencia": "LADO OPOSTO AO MOCELLIN - LADO MAR",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 241,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0943122341483,
+                    -22.9195809106807
+                ]
+            },
+            "properties": {
+                "OBJECTID": 241,
+                "tx_produto": null,
+                "tx_COD": "A213",
+                "tx_endereco": "AV. QUINTINO BOCAIUVA",
+                "tx_referencia": "LADO OPOSTO AO BOTEQUIM INFORMAL -LADO MAR",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 242,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0959789012739,
+                    -22.9273309107159
+                ]
+            },
+            "properties": {
+                "OBJECTID": 242,
+                "tx_produto": null,
+                "tx_COD": "A217",
+                "tx_endereco": "AV. PREFEITO SYLVIO PICANÇO X GARAGEM SUBTERRÂNEA",
+                "tx_referencia": "LADO MAR",
+                "tx_bairro": "SÃO FRANCISCO",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 243,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1152566775878,
+                    -22.9047197990215
+                ]
+            },
+            "properties": {
+                "OBJECTID": 243,
+                "tx_produto": null,
+                "tx_COD": "A211",
+                "tx_endereco": "AV. JORNALISTA ALBERTO FRANCISCO TORRES, 177",
+                "tx_referencia": "ABRIGO 1 - LADO MAR",
+                "tx_bairro": "ICARAÍ",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 244,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.1150930000114,
+                    -22.8906018464812
+                ]
+            },
+            "properties": {
+                "OBJECTID": 244,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Rua São João",
+                "tx_referencia": "Ao lado da saída de estacionamento do Guanabara",
+                "tx_bairro": "Centro",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 245,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0505780002279,
+                    -22.874052849069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 245,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "AV. Nestor Perlingeiro",
+                "tx_referencia": null,
+                "tx_bairro": "Santa Bárbara",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 246,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.047822999522,
+                    -22.8795918484543
+                ]
+            },
+            "properties": {
+                "OBJECTID": 246,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "AV. Nestor Perlingeiro",
+                "tx_referencia": null,
+                "tx_bairro": "Santa Bárbara",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 247,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0480879997752,
+                    -22.8769468482754
+                ]
+            },
+            "properties": {
+                "OBJECTID": 247,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "AV. Nestor Perlingeiro",
+                "tx_referencia": null,
+                "tx_bairro": "Santa Bárbara",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 248,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0986669997605,
+                    -22.9326628384774
+                ]
+            },
+            "properties": {
+                "OBJECTID": 248,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Av. Prefeito Silvio Picanço",
+                "tx_referencia": "Em frente ao Preventório) lado oposto ao Catamarã",
+                "tx_bairro": "Charitas",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 249,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0457669995319,
+                    -22.9400798375762
+                ]
+            },
+            "properties": {
+                "OBJECTID": 249,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Motel Status",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 250,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0647050004716,
+                    -22.9345598384621
+                ]
+            },
+            "properties": {
+                "OBJECTID": 250,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Lado oposto ao Shopping Barravento",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 251,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0353280000733,
+                    -22.9442298366556
+                ]
+            },
+            "properties": {
+                "OBJECTID": 251,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Em frente à loja Sol a Sol",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 252,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0573470002747,
+                    -22.941324837697
+                ]
+            },
+            "properties": {
+                "OBJECTID": 252,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Em frente ao Multicenter",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 253,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0621320001635,
+                    -22.9367028382353
+                ]
+            },
+            "properties": {
+                "OBJECTID": 253,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Ao lada da Padaria Grão Pão",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 254,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0953549996766,
+                    -22.9155678416899
+                ]
+            },
+            "properties": {
+                "OBJECTID": 254,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Av. Quintino Bocaiúva",
+                "tx_referencia": "Após o Skate Park",
+                "tx_bairro": "São Francisco",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 255,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0443769999911,
+                    -22.9704928325897
+                ]
+            },
+            "properties": {
+                "OBJECTID": 255,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Ponto final do ônibus 38",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 256,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0282170002539,
+                    -22.9519500575468
+                ]
+            },
+            "properties": {
+                "OBJECTID": 256,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Em frente à loja de rações Gaudério",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 257,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.0573470002747,
+                    -22.941324837697
+                ]
+            },
+            "properties": {
+                "OBJECTID": 257,
+                "tx_produto": null,
+                "tx_COD": null,
+                "tx_endereco": "Estrada Francisco da Cruz Nunes",
+                "tx_referencia": "Em frente à loja Sol a Sol",
+                "tx_bairro": "Itaipu",
+                "db_lat": null,
+                "db_long": null
+            }
+        }
+    ]
+}
