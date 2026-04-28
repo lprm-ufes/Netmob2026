@@ -5,14 +5,14 @@
 This dataset contains passenger transaction records from the public bus system in Niterói, RJ. Each record represents a single boarding event.
 
 **Collection Period:** March 2026.
-**Total Records:** ~7.2 million transactions.
- >**Free Travels:** 1,969,370  
+**Total Records:** ~6.7 millions transactions.
+ >**Free Travels:** 1,792,520  
 
- >**Paid with Card**: 4,365,789 (including cards used to validate payments with money)
+ >**Paid with Card**: 4,085,360 (including cards used to validate payments with money)
 
  > **Paid in Cash**: 912,801
 
-**Distinct users:** 377,755 distinguishible transactions (by card_id)
+**Distinct users:** 372,371 distinguishible transactions (by card_id)
 
 ---
 
