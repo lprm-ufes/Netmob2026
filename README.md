@@ -52,6 +52,9 @@ We provide three reference notebooks to help participants explore the data:
 - [**Bus Mobility Data Characterization**](Notebooks/bus_mobility_data_characterization.ipynb): Exploration of GPS traces and vehicle patterns.
 - [**Ticket Transactions Analysis**](Notebooks/Ticket_Transactions.ipynb): Analysis of passenger demand and fare patterns.
 - [**Meteorological Analysis**](Notebooks/meteorological-analysis.ipynb): Investigation of weather patterns during the study period.
+- [**Demand Mapping**](Notebooks/Cross_Dataset_Integration_Demand_Mapping.ipynb): Overlays ticket boarding counts onto GeoJSON route geometries to identify high-demand corridors.
+- [**Headway & Frequency Analysis**](Notebooks/Operational_Data_Headway_and_Frequency_Analysis.ipynb): Computes wait times between consecutive buses and hourly service frequency from GPS telemetry data.
+- [**Fare Revenue & Transaction Analysis**](Notebooks/Ticket_Data_Fare_Revenue_and_Transaction_Analysis.ipynb): Analyses passenger demographics, system revenue, and peak travel demand from ticket boarding data.
 
 ---
 
