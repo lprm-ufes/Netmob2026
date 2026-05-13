@@ -1,5 +1,5 @@
 <!-- ![NetMob 2026 Logo](images/logo_2026.png) -->
-<img src="image/logo_2026.png" alt="NetMob 2026 Logo" width="400" />
+<img src="images/logo_2026.png" alt="NetMob 2026 Logo" width="400" />
 
 
 # NetMob 2026: Public Transport & Passenger Demand in Niterói, RJ, Brazil
@@ -13,10 +13,30 @@ Researchers are invited to explore the dataset and contribute original findings 
 
 The dataset provides a comprehensive view of the urban mobility ecosystem in Niterói, combining three main sources of information:
 
-1.  **Mobility Data:** Real-time GPS telemetry from the public bus fleet.
-2.  **Ticket Data:** Passenger transaction records (boardings) across the bus system.
-3.  **Meteorological Data:**  - Auxiliar data -  Weather conditions in the city during the collection period.
-4.  **Social and economic Data:** -  Auxiliar data - Official data containing economic and social information about the city. 
+1.  **Mobility Data:** Real-time GPS telemetry from the public bus fleet at every 15 seconds from March 11th to March 30th. See  [**README_Mobility.md**](README_Mobility.md) for schema and spatial coverage and   notebooks/bus_mobility_data_characterization.ipynb for data exploration.
+
+<p align="center">
+<img src="images/tripduration.png" width="50%"/>
+</p>
+
+
+2.  **Ticket Data:**  6.7 millions Passenger transaction records (boardings) across the Niterói bus system. See  [**README_Ticket.md**](README_Ticket.md) for transaction types and categorical mappings and notebooks/Ticket_Transactions.ipynb for data exploration.
+
+
+<p align="center">
+<img src="images/passengerperhour.png" width="50%"/>
+</p>
+
+Besides these two datasets  are not keyed to a shared individual identifier, they  can be integrated
+through spatiotemporal alignment, which allows  joint analysis of vehicle movements and passenger demand and enables richer insights into system performance and usage.
+
+<p align="center">
+<img src="images/passengerdemand.png" width="50%"/>
+</p>
+
+3.  **Auxiliar  Data:**  - Bus stops and special bus stops, line route shapes, and weather conditions in the city during the collection period. This dataset allows to analyze the influence of weather in the passenger/trips behavior. 
+
+4.  **Social and economic Data:** -  Auxiliar data - Official data containing economic and social information about the city. These datasets allow to analyze the social, economic and point of interest factors. 
 
 **Collection Period:** March 2026.
 
@@ -44,7 +64,7 @@ Static reference files and environmental data located in `auxiliar_data/`.
 | `stops.json` | GeoJSON | Official bus stops with street-level location. |
 | `stops_integration_city.json` | JSON | Real-time snapshots near city integration terminals. |
 | `stops_integration_metropolitan.json` | GeoJSON | Locations of major metropolitan interchange hubs. |
-| `meteorological_data_cleaned.csv` | CSV | Hourly weather data (Temp, Rain, Wind) for March 2026. |
+| `meteorological_data.csv` | CSV | Hourly weather data (Temp, Rain, Wind) during March 2026 from [oficial brazilian Metereology Institute database](https://bdmep.inmet.gov.br/). |
 
 ---
 
