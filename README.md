@@ -1,11 +1,13 @@
+<!-- ![NetMob 2026 Logo](images/logo_2026.png) -->
+<img src="image/logo_2026.png" alt="NetMob 2026 Logo" width="400" />
 
-
-![NetMob 2026 logo](https://netmob.org/www26/images/logos/logo_2026.png)
 
 # NetMob 2026: Public Transport & Passenger Demand in Niterói, RJ, Brazil
 
+Welcome to the official repository of the **NetMob 2026 Data Challenge**, organized in collaboration with UFF, UFES, PUC Minas and research partners from across Brazil. This repository contains the dataset for the **NetMob 2026 Challenge**, focusing on public transport mobility and passenger demand in the city of Niterói, Rio de Janeiro, Brazil.
 
-This repository contains the dataset for the **NetMob 2026 Challenge**, focusing on public transport mobility and passenger demand in the city of Niterói, Rio de Janeiro, Brazil.
+Researchers are invited to explore the dataset and contribute original findings on topics such as real time vehicle tracking, bus stop arriving prediction, social-aware trip analysis, and more.
+
 
 ## Overview
 
@@ -13,7 +15,8 @@ The dataset provides a comprehensive view of the urban mobility ecosystem in Nit
 
 1.  **Mobility Data:** Real-time GPS telemetry from the public bus fleet.
 2.  **Ticket Data:** Passenger transaction records (boardings) across the bus system.
-3.  **Meteorological Data:** Weather conditions in the city during the collection period.
+3.  **Meteorological Data:**  - Auxiliar data -  Weather conditions in the city during the collection period.
+4.  **Social and economic Data:** -  Auxiliar data - Official data containing economic and social information about the city. 
 
 **Collection Period:** March 2026.
 
@@ -32,7 +35,7 @@ Contains logs of every passenger boarding, including fare types and card categor
 - **Location:** `ticket_data/`
 - **Details:** See [**README_Ticket.md**](README_Ticket.md) for transaction types and categorical mappings.
 
-### 3. Auxiliary Data
+### 3. Environment Data 
 Static reference files and environmental data located in `auxiliar_data/`.
 
 | File | Format | Description |
@@ -47,7 +50,7 @@ Static reference files and environmental data located in `auxiliar_data/`.
 
 ## Getting Started: Notebooks
 
-We provide three reference notebooks to help participants explore the data:
+We provide six reference notebooks to help participants explore the data:
 
 - [**Bus Mobility Data Characterization**](Notebooks/bus_mobility_data_characterization.ipynb): Exploration of GPS traces and vehicle patterns.
 - [**Ticket Transactions Analysis**](Notebooks/Ticket_Transactions.ipynb): Analysis of passenger demand and fare patterns.
@@ -89,10 +92,21 @@ We provide three reference notebooks to help participants explore the data:
 - 🎆 **Multi-modal flow** — analyzing metropolitan integration terminals with transaction patterns
 
 
+## Requesting Access
+
+To request access to the dataset, please visit the Data Challenge portal:
+👉 [https://netmob.org/www26/datachallenge](https://netmob.org/www26/datachallenge)
+
+Access is granted upon agreement with the Terms and Conditions of the challenge.
+
+##  License
+
+This dataset is shared for non-commercial academic use only. Please refer to the Terms and Conditions upon access request.
 
 ---
 
 ## Data Source & Credits
 
+- **Niterói City**
 - **Mobnit API:** Real-time bus data.
 - **INMET:** Meteorological data from the Niterói station (A001).
