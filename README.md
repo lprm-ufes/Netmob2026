@@ -44,7 +44,9 @@ through spatiotemporal alignment, which allows  joint analysis of vehicle moveme
 
 ## Dataset Structure
 
-> Interested researchers must request the dataset.
+> Interested researchers must request the dataset. The datasets described in items 1, 2, and 3 are available only for the challenge participants after requesting in the (Data Challenge webpage)[https://netmob.org/www26/#data_challenge].
+
+
 ### 1. Mobility Data (GPS Telemetry)
 Contains high-frequency positional data for buses operating in Niterói.
 - **Location:** `mobility_data/` 
@@ -81,7 +83,7 @@ Static reference files  with social information located in `social_data/` (these
 | `Restaurants_2019.csv` | Restaurant inventory and attributes for 2019. |
 
 
-The datasets described in items 1, 2, and 3 are available only for the challenge participants after requesting in the (Data Challenge webpage)[https://netmob.org/www26/#data_challenge]. 
+
 
 ### 4. Environment Data 
 Static reference files and environmental data located in `auxiliar_data/`.
