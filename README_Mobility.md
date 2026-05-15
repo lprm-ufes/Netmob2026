@@ -12,6 +12,7 @@ After cleaning the data, all buses trips were saved in CSV file.
 
 ### `mobility_data/` — Processed Vehicle Telemetry
 CSV files exported every 24h. Each row is a single vehicle observation.
+- **Period:** From March 11th to March 30th, 2026. 
 - **Frequency:** Approximately every 15-30 seconds per vehicle.
 - **Format:** CSV
 
