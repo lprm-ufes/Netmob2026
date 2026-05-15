@@ -34,10 +34,10 @@ through spatiotemporal alignment, which allows  joint analysis of vehicle moveme
 <img src="images/passengerdemand.png" width="50%"/>
 </p>
 
-3.  **Auxiliar  Data:**  - Bus stops and special bus stops, line route shapes, and weather conditions in the city during the collection period. This dataset allows to analyze the influence of weather in the passenger/trips behavior. 
 
-4.  **Social and economic Data:** -  Auxiliar data - Official data containing economic and social information about the city. These datasets allow to analyze the social, economic and point of interest factors. 
+3.  **Social and economic Data:** -  Auxiliar data - Official data containing economic and social information about the city. These datasets allow to analyze the social, economic and point of interest factors. 
 
+4.  **Auxiliar  Data:**  - Bus stops and special bus stops, line route shapes, and weather conditions in the city during the collection period. This dataset allows to analyze the influence of weather in the passenger/trips behavior. 
 **Collection Period:** March 2026.
 
 ---
@@ -55,7 +55,35 @@ Contains logs of every passenger boarding, including fare types and card categor
 - **Location:** `ticket_data/`
 - **Details:** See [**README_Ticket.md**](README_Ticket.md) for transaction types and categorical mappings.
 
-### 3. Environment Data 
+### 3. Social Data 
+Static reference files  with social information located in `social_data/` (these file 
+
+| File | Description |
+|------|-------------|
+| `IBGE_Reduced Data Dictionary.csv` | Reduced data dictionary describing variables in the IBGE demographic dataset. |
+| `IBGE_Complete Data Dictionary.csv` | Full data dictionary for the IBGE aggregated demographic data. |
+| `IBGE_Aggregated Demographic Data by Neighborhood in Niteroi.csv` | IBGE census demographic indicators aggregated by neighborhood in Niterói. |
+| `Neighborhood Bounding Box.csv` | Geographic bounding boxes (lat/long extents) for each neighborhood. |
+| `Health_Regional Health Boundaries.csv` | Boundaries of regional health administrative areas. |
+| `Health_Healthcare Service Area.csv` | Service-area delimitations for public healthcare coverage. |
+| `Health_Hospitals.csv` | Locations and attributes of hospitals. |
+| `Health_Polyclinics.csv` | Locations and attributes of polyclinics. |
+| `Health_Basic Health Units.csv` | Locations and attributes of basic health units (UBS). |
+| `Health_Pharmacies.csv` | Locations and attributes of pharmacies. |
+| `Education_Universities.csv` | Locations and attributes of universities. |
+| `Education_State Middle Schools.csv` | Locations and attributes of state-run middle schools. |
+| `Education_Municipal Primary Schools.csv` | Locations and attributes of municipal primary schools. |
+| `Education_Public Preschools.csv` | Locations and attributes of public preschools. |
+| `Mobility_Private Parking Lots.csv` | Locations and attributes of private parking lots. |
+| `Mobility_Rotating Parking Spaces.csv` | On-street rotating (paid) parking spaces. |
+| `Mobility_Bicycle Stations.csv` | Locations of bicycle-sharing stations. |
+| `Garbage Collection Schedule.csv` | Schedule and routes for municipal garbage collection. |
+| `Restaurants_2019.csv` | Restaurant inventory and attributes for 2019. |
+
+
+The datasets described in items 1, 2, and 3 are available only for the challenge participants after requesting in the (Data Challenge webpage)[https://netmob.org/www26/#data_challenge]. 
+
+### 4. Environment Data 
 Static reference files and environmental data located in `auxiliar_data/`.
 
 | File | Format | Description |
@@ -65,6 +93,7 @@ Static reference files and environmental data located in `auxiliar_data/`.
 | `stops_integration_city.json` | JSON | Real-time snapshots near city integration terminals. |
 | `stops_integration_metropolitan.json` | GeoJSON | Locations of major metropolitan interchange hubs. |
 | `meteorological_data.csv` | CSV | Hourly weather data (Temp, Rain, Wind) during March 2026 from [oficial brazilian Metereology Institute database](https://bdmep.inmet.gov.br/). |
+
 
 ---
 
