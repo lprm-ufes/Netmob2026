@@ -58,7 +58,7 @@ Contains logs of every passenger boarding, including fare types and card categor
 - **Details:** See [**README_Ticket.md**](README_Ticket.md) for transaction types and categorical mappings.
 
 ### 3. Social Data 
-Static reference files  with social information located in `social_data/` (these file 
+Static reference files  with social information located in `social_data/`. 
 
 | File | Description |
 |------|-------------|
