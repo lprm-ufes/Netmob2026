@@ -27,14 +27,12 @@ CSV files exported every 24h. Each row is a single vehicle observation.
 | `id` | `integer` | Unique vehicle identifier (hardware/transponder ID) |
 | `timestamp` | `datetime` | Observation time in **BRT (GMT-3)**, format `YYYY-MM-DD HH:MM:SS` |
 | `tripId` | `string` | GTFS trip identifier — encodes schedule and direction |
-| `routeId` | `integer` | GTFS route identifier |
 | `lat` | `float` | Vehicle latitude in **WGS84** decimal degrees |
 | `lng` | `float` | Vehicle longitude in **WGS84** decimal degrees |
-| `angle` | `float` | Heading in **degrees** (0° = North, 90° = East) |
-| `linha` | `string` | Public-facing **route number** (e.g. `31`, `49.1`) |
-| `nomeLinha` | `string` | Full route name (Origin X Destination) |
+| `lineId` | `string` | Public-facing **route number** (e.g. `31`, `49.1`) |
+| `lineName` | `string` | Full route name (Origin X Destination) |
 | `headsign` | `string` | Destination sign shown on the bus front |
-| `sentido` | `string` | Trip direction — `Ida` (outbound) or `Volta` (inbound) |
+| `direction` | `string` | Trip direction — `Ida` (outbound) or `Volta` (inbound) |
 
 ---
 
@@ -48,8 +46,16 @@ CSV files exported every 24h. Each row is a single vehicle observation.
 
 ## Data Quality Notes
 
-- **Gaps:** Occasional telemetry gaps may occur due to connectivity issues in specific areas.
-- **Out of Service:** Vehicles with `null` fields in `linha` or `routeId` are likely moving between depots or are out of service.
-- **Precision:** `angle` and coordinates are high-precision floats; rounding may be appropriate for visualization.
+- **Gaps:** Occasional telemetry gaps may occur due to connectivity issues in specific areas. Known Gaps:
+    - 2026-03-18  - (telemetry sytem out of service)
+    - 2026-03-19 - (telemetry sytem out of service)
+    - day before and after these dates also affected.
+    - 2026-03-22 -  interval greater than the 15s between each reading. 
+    - 2026-03-28 - less readings than the expected. 
+   
+
+- **Out of Service:** Vehicles with `null` fields in `line`  are likely moving between depots or are out of service.
+- **Precision:**  coordinates are high-precision floats; rounding may be appropriate for visualization.
+
 
 [**Back to Main README**](README.md)
