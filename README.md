@@ -9,9 +9,16 @@ Welcome to the official repository of the **NetMob 2026 Data Challenge**, organi
 Researchers are invited to explore the dataset and contribute original findings on topics such as real time vehicle tracking, bus stop arriving prediction, social-aware trip analysis, and more.
 
 
+## Updates
+
+- **2026-06-15:** **GTFS schedule data added.** Scheduled feeds (timetables, routes, stops, shapes) for the two operating companies, TransNit and TransOceânico, are now available in `data/GTFS_data/`. See [**README_GTFS.md**](README_GTFS.md).
+- **2026-06-15:** Mobility data updated.  Days  March **27**, **28**, **30**, and **31** are being updated with new versions containing more readings. See [**README_Mobility.md**](README_Mobility.md).
+
+---
+
 ## Overview
 
-The dataset provides a comprehensive view of the urban mobility ecosystem in Niterói, combining three main sources of information:
+The dataset provides a comprehensive view of the urban mobility ecosystem in Niterói, combining six main sources of information:
 
 1.  **Mobility Data:** Real-time GPS telemetry from the public bus fleet at every 15 seconds from March 11th to March 30th. See  [**README_Mobility.md**](README_Mobility.md) for schema and spatial coverage and   [**Mobility Notebook**](Notebooks/bus_mobility_data_characterization.ipynb) for data exploration.
 
@@ -46,6 +53,8 @@ through spatiotemporal alignment, which allows  joint analysis of vehicle moveme
 <img src="images/population_distribution.png" width="50%"/>
 </p>
 
+6.  **GTFS Schedule Data:** Official scheduled timetables for the two bus operators (TransNit and TransOceânico) in standard GTFS format (routes, trips, stops, stop times, calendars, shapes). The `trip_id` values link directly to the Mobility Data, enabling schedule versus actual analyses. See [**README_GTFS.md**](README_GTFS.md) for the feeds, coverage, and merge rules and [**GTFS Notebook**](Notebooks/GTFS_characterization.ipynb) for loading, merging, and data exploration.
+
 ---
 
 
@@ -56,9 +65,11 @@ Netmob2026/
 ├── README.md                       # Dataset overall description
 ├── README_Mobility.md              # GPS telemetry schema and coverage
 ├── README_Ticket.md                # Ticket transactions schema and detalis
+├── README_GTFS.md                  # GTFS schedule feeds: structure, coverage, merge rules
 ├── Notebooks/                      # Reference Jupyter notebooks
 ├── data/                           # Datasets - Ticket, mobility, and social just after requesting
 │   ├── mobility_data/              # Bus GPS telemetry (restricted access)
+│   ├── GTFS_data/                  # GTFS schedule feeds (TransNit + TransOceânico snapshots)
 │   ├── ticket_data/                # Passenger boarding transactions (restricted access)
 │   ├── social_data/                # Points of interest (health, education, mobility, etc.)
 │   ├── auxiliar_data/              # Bus stops, route shapes, weather
@@ -107,14 +118,20 @@ This dataset contains spatial boundaries and census indicators for Niteroi, deri
 - **Location:** `data/ibge_census_data_2022/`
 - **Details:** See [**data/ibge_census_data_2022/README_census.md**](data/ibge_census_data_2022/README_census.md) for description of each file. 
 
+### 6. GTFS Schedule Data
+Official scheduled feeds (timetables, routes, stops, shapes) for the two bus operators, TransNit and TransOceânico, provided as dated snapshots. The `trip_id` values join directly to the Mobility Data, enabling schedule versus actual analyses.
+- **Location:** `data/GTFS_data/`
+- **Details:** See [**README_GTFS.md**](README_GTFS.md) for the feed structure, the coverage gaps, and how to merge the snapshots, and [**GTFS Characterization Notebook**](Notebooks/GTFS_characterization.ipynb) for loading and exploring the merged feeds.
+
 ---
 
 ## Getting Started: Notebooks
 
-We provide six reference notebooks to help participants explore the data:
+We provide reference notebooks to help participants explore the data:
 
 - [**Bus Mobility Data Characterization**](Notebooks/bus_mobility_data_characterization.ipynb): Exploration of GPS traces and vehicle patterns.
 - [**Ticket Transactions Analysis**](Notebooks/Ticket_Transactions.ipynb): Analysis of passenger demand and fare patterns.
+- [**GTFS Schedule Characterization**](Notebooks/GTFS_characterization.ipynb): Loads and merges the published GTFS feeds, then summarizes routes, stops, trips, the temporal activity profile, headways, and the network map.
 - [**IBGE Census Data Characterization**](Notebooks/Characterization_IBGE_Census_Data.ipynb): How to load the geospatial layers and merge them with demographic and infrastructure indicators of Niteróis Census Data. 
 - [**Meteorological Analysis**](Notebooks/meteorological-analysis.ipynb): Investigation of weather patterns during the study period.
 - [**Demand Mapping**](Notebooks/Cross_Dataset_Integration_Demand_Mapping.ipynb): Overlays ticket boarding counts onto GeoJSON route geometries to identify high-demand corridors.
@@ -177,6 +194,8 @@ Access is granted upon agreement with the Terms and Conditions of the challenge.
 This dataset is shared for non-commercial academic use only. Please refer to the Terms and Conditions upon access request.
 
 ---
+
+
 
 ## Data Source & Credits
 
