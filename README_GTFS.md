@@ -25,8 +25,7 @@ static layer does not have.
 | Lines / routes | `line_routes.json` — 43 line geometries (MultiLineString, by name, e.g. `L03_Circular`) | `routes.txt` + `shapes.txt` — 29 + 26 routes with `route_id` and per-trip shapes |
 | Integration terminals | `stops_integration_city.json`, `stops_integration_metropolitan.json` | — (not in GTFS) |
 | Weather | `meteorological_data.csv` | — (not in GTFS) |
-| **Timetable** | — (none) | **`trips.txt`, `stop_times.txt`, `calendar*.txt`, `frequencies.txt`** |
-| **Fares** | — | `fare_attributes.txt`, `fare_rules.txt` |
+| **Timetable** | — (none) | **`trips.txt`, `stop_times.txt`, `calendar*.txt`** |
 | **Link to mobility data** | not id-matched | `trip_id` ↔ mobility `tripId` (see §2) |
 
 In short: the static layer describes **where** a subset of stops and lines are; GTFS adds
